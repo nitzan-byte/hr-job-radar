@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_19 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_11 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -11,33 +11,17 @@ _19 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **Senior HR Business Partner** — Insurify · Remote – US  
   portfolio of Viola Group · posted 2026-09-12 · [open posting](https://boards.greenhouse.io/insurify/jobs/6188472004)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
-  portfolio of lool ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
-- ★★ **Recruiting Manager** — BigPanda · Remote – US  
-  portfolio of Israel VC Forum · posted 2026-09-01 · [open posting](https://jobs.gem.com/bigpanda/am9icG9zdDr3Rn-v2HX37CUWPQLDhXp3)
-- ★★ **Clinical Recruiting Manager** — Carbon Health · Remote – US  
-  portfolio of Israel VC Forum · posted 2026-09-18 · [open posting](https://ats.rippling.com/carbon-health/jobs/9574ba68-6cfe-4e9a-8e50-58c91aba6d96)
+  portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★ **Compensation Senior Manager** — GE HealthCare · Remote (country not stated – check)  
   Haifa/Tirat Carmel R&D · posted Posted 7 D · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Compensation-Senior-Manager_R4045183-1)
 - ★★ **People Analytics Analyst** — General Motors · Remote – US  
   GM Israel tech center (Herzliya) · posted Posted 30+ · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/People-Analytics-Analyst_JR-202610946)
-- ★★ **People Analytics Analyst** — General Motors Ventures · Remote – US  
-  portfolio of Israel VC Forum · posted 2026-05-21 · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/People-Analytics-Analyst_JR-202610946)
 - ★★ **Principal Workday Analyst – Compensation & Talent Management and Performance** — Medtronic · Remote – US  
   Israel R&D via Mazor Robotics & Given Imaging · posted Posted 5 D · [open posting](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Workday-Analyst---Compensation---Talent_R74309-2)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
-  portfolio of lool ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
+  portfolio of Grove Ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
 - ★★ **Senior Technical Recruiter (Contract)** — SentinelOne · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-08-28 · [open posting](https://www.sentinelone.com/jobs/?gh_jid=7965797003)
-- ★★ **Product Recruiter** — Stripe · Remote – US  
-  portfolio of Israel VC Forum · posted 2026-09-26 · [open posting](https://stripe.com/careers/listing/product-recruiter/8163193)
-- ★★ **GTM Recruiter (Fixed Term)** — Stripe · Remote – US  
-  portfolio of Israel VC Forum · posted 2026-09-26 · [open posting](https://stripe.com/careers/listing/gtm-recruiter-fixed-term/8016504)
-- ★★ **University Recruiter** — Stripe · Remote – US  
-  portfolio of Israel VC Forum · posted 2026-09-24 · [open posting](https://stripe.com/careers/listing/university-recruiter/8226211)
-- ★★ **Core Business Recruiter (Fixed Term Contract)** — Stripe · Remote – US  
-  portfolio of Israel VC Forum · posted 2026-09-04 · [open posting](https://stripe.com/careers/listing/core-business-recruiter-fixed-term-contract/8163187)
-- ★★ **Technical Recruiter (Fixed Term Contract)** — Stripe · Remote – US  
-  portfolio of Israel VC Forum · posted 2026-08-25 · [open posting](https://stripe.com/careers/listing/technical-recruiter-fixed-term-contract/8154525)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-09-29 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
