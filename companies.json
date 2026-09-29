@@ -1,0 +1,2420 @@
+[
+ {
+  "name": "accessiBe",
+  "israel_link": "Israeli-founded, Tel Aviv HQ",
+  "category": "Web accessibility SaaS",
+  "ats": "greenhouse",
+  "slug": "accessibe",
+  "careers_url": "https://job-boards.greenhouse.io/accessibe"
+ },
+ {
+  "name": "Apiiro",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "apiiro",
+  "careers_url": "https://job-boards.greenhouse.io/apiiro"
+ },
+ {
+  "name": "AppsFlyer",
+  "israel_link": "Israeli-founded, Herzliya HQ",
+  "category": "Martech / mobile attribution",
+  "ats": "greenhouse",
+  "slug": "appsflyer",
+  "careers_url": "https://job-boards.greenhouse.io/appsflyer"
+ },
+ {
+  "name": "At-Bay",
+  "israel_link": "Israeli-founded cyber insurtech",
+  "category": "insurtech",
+  "ats": "greenhouse",
+  "slug": "atbayjobs",
+  "careers_url": "https://job-boards.greenhouse.io/atbayjobs"
+ },
+ {
+  "name": "Augury",
+  "israel_link": "Israeli founders; Haifa/Tel Aviv R&D",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "greenhouse",
+  "slug": "augury",
+  "careers_url": "https://job-boards.greenhouse.io/augury"
+ },
+ {
+  "name": "Axon (Carbyne)",
+  "israel_link": "Acquired Israeli Carbyne (911 tech)",
+  "category": "defense/gov/security",
+  "ats": "greenhouse",
+  "slug": "axon",
+  "careers_url": "https://job-boards.greenhouse.io/axon"
+ },
+ {
+  "name": "Axonius",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "axonius",
+  "careers_url": "https://job-boards.greenhouse.io/axonius"
+ },
+ {
+  "name": "BigID",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "bigid",
+  "careers_url": "https://job-boards.greenhouse.io/bigid"
+ },
+ {
+  "name": "Bluevine",
+  "israel_link": "Israeli-founded (Eyal Lifshitz), Tel Aviv R&D",
+  "category": "fintech",
+  "ats": "greenhouse",
+  "slug": "bluevineus",
+  "careers_url": "https://job-boards.greenhouse.io/bluevineus"
+ },
+ {
+  "name": "Bringg",
+  "israel_link": "Israeli-founded, Tel Aviv R&D",
+  "category": "Delivery/logistics SaaS",
+  "ats": "greenhouse",
+  "slug": "bringg",
+  "careers_url": "https://job-boards.greenhouse.io/bringg"
+ },
+ {
+  "name": "Capitolis",
+  "israel_link": "Israeli-founded capital markets fintech",
+  "category": "fintech",
+  "ats": "greenhouse",
+  "slug": "capitolis",
+  "careers_url": "https://job-boards.greenhouse.io/capitolis"
+ },
+ {
+  "name": "Cato Networks",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "catonetworks",
+  "careers_url": "https://job-boards.greenhouse.io/catonetworks"
+ },
+ {
+  "name": "Cloudinary",
+  "israel_link": "Israeli founders, Petah Tikva R&D",
+  "category": "Media API / dev tools",
+  "ats": "lever",
+  "slug": "cloudinary",
+  "careers_url": "https://jobs.lever.co/cloudinary"
+ },
+ {
+  "name": "Compass",
+  "israel_link": "Israeli co-founder (Ori Allon) real estate tech",
+  "category": "proptech",
+  "ats": "greenhouse",
+  "slug": "urbancompass",
+  "careers_url": "https://job-boards.greenhouse.io/urbancompass"
+ },
+ {
+  "name": "Connecteam",
+  "israel_link": "Israeli-founded deskless workforce mgmt platform",
+  "category": "hr-tech/workforce",
+  "ats": "greenhouse",
+  "slug": "connecteam",
+  "careers_url": "https://job-boards.greenhouse.io/connecteam"
+ },
+ {
+  "name": "Cross River Bank",
+  "israel_link": "Tech-forward bank with large Israel R&D center (Tel Aviv)",
+  "category": "fintech/banking",
+  "ats": "greenhouse",
+  "slug": "crossriverbank",
+  "careers_url": "https://job-boards.greenhouse.io/crossriverbank"
+ },
+ {
+  "name": "Cybereason (LevelBlue)",
+  "israel_link": "Israeli founders, Tel Aviv R&D; merged into LevelBlue",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "cybereason",
+  "careers_url": "https://job-boards.greenhouse.io/cybereason"
+ },
+ {
+  "name": "Cymulate",
+  "israel_link": "Israeli founders, Rishon LeZion/Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "cymulate",
+  "careers_url": "https://job-boards.eu.greenhouse.io/cymulate"
+ },
+ {
+  "name": "D-ID",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "Generative video AI",
+  "ats": "workable",
+  "slug": "d-id",
+  "careers_url": "https://apply.workable.com/d-id/"
+ },
+ {
+  "name": "Datarails",
+  "israel_link": "Israeli-founded, Tel Aviv R&D",
+  "category": "FP&A SaaS",
+  "ats": "greenhouse",
+  "slug": "datarails",
+  "careers_url": "https://job-boards.greenhouse.io/datarails"
+ },
+ {
+  "name": "Deel",
+  "israel_link": "Co-founder Alex Bouaziz (French-Israeli per task brief); large Israel presence",
+  "category": "hr-tech/payroll/EOR",
+  "ats": "ashby",
+  "slug": "deel",
+  "careers_url": "https://jobs.ashbyhq.com/deel"
+ },
+ {
+  "name": "Descope",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "descope",
+  "careers_url": "https://job-boards.greenhouse.io/descope"
+ },
+ {
+  "name": "Duda",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "Website builder SaaS",
+  "ats": "greenhouse",
+  "slug": "duda",
+  "careers_url": "https://job-boards.greenhouse.io/duda"
+ },
+ {
+  "name": "Eleos Health",
+  "israel_link": "Israeli founders; Tel Aviv R&D",
+  "category": "health/medtech/biotech",
+  "ats": "greenhouse",
+  "slug": "eleoshealth",
+  "careers_url": "https://job-boards.greenhouse.io/eleoshealth"
+ },
+ {
+  "name": "Fireblocks",
+  "israel_link": "Israeli-founded crypto infrastructure",
+  "category": "fintech/payments",
+  "ats": "greenhouse",
+  "slug": "fireblocks",
+  "careers_url": "https://job-boards.greenhouse.io/fireblocks"
+ },
+ {
+  "name": "Forter",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "forter",
+  "careers_url": "https://job-boards.greenhouse.io/forter"
+ },
+ {
+  "name": "Gong",
+  "israel_link": "Israeli founders, R&D in Tel Aviv",
+  "category": "Enterprise SaaS / revenue AI",
+  "ats": "greenhouse",
+  "slug": "gongio",
+  "careers_url": "https://job-boards.greenhouse.io/gongio"
+ },
+ {
+  "name": "Guardz",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "guardz",
+  "careers_url": "https://job-boards.eu.greenhouse.io/guardz"
+ },
+ {
+  "name": "Guidde",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "AI documentation SaaS",
+  "ats": "greenhouse",
+  "slug": "guidde",
+  "careers_url": "https://job-boards.greenhouse.io/guidde"
+ },
+ {
+  "name": "Gusto",
+  "israel_link": "Israeli co-founder (Tomer London)",
+  "category": "hr-tech/payroll",
+  "ats": "greenhouse",
+  "slug": "gusto",
+  "careers_url": "https://job-boards.greenhouse.io/gusto"
+ },
+ {
+  "name": "Healthee",
+  "israel_link": "Israeli-founded employee benefits navigation",
+  "category": "hr-tech/benefits",
+  "ats": "workable",
+  "slug": "healthee",
+  "careers_url": "https://apply.workable.com/healthee/"
+ },
+ {
+  "name": "Hello Heart",
+  "israel_link": "Israeli founders; Tel Aviv R&D",
+  "category": "health/medtech/biotech",
+  "ats": "greenhouse",
+  "slug": "helloheart",
+  "careers_url": "https://job-boards.greenhouse.io/helloheart"
+ },
+ {
+  "name": "Hippo",
+  "israel_link": "Israeli co-founder (Assaf Wand) home insurtech",
+  "category": "insurtech/proptech",
+  "ats": "greenhouse",
+  "slug": "hippo70",
+  "careers_url": "https://job-boards.greenhouse.io/hippo70"
+ },
+ {
+  "name": "HoneyBook",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "SMB client-management SaaS",
+  "ats": "ashby",
+  "slug": "honeybook",
+  "careers_url": "https://jobs.ashbyhq.com/honeybook"
+ },
+ {
+  "name": "Honeycomb Insurance",
+  "israel_link": "Israeli-founded commercial property insurtech",
+  "category": "insurtech/proptech",
+  "ats": "greenhouse",
+  "slug": "honeycombinsurance",
+  "careers_url": "https://job-boards.greenhouse.io/honeycombinsurance"
+ },
+ {
+  "name": "IDB Bank (Israel Discount Bank of New York)",
+  "israel_link": "US subsidiary of Israel Discount Bank",
+  "category": "fintech/banking",
+  "ats": "greenhouse",
+  "slug": "idbny",
+  "careers_url": "https://job-boards.greenhouse.io/idbny"
+ },
+ {
+  "name": "Innovid (Mediaocean)",
+  "israel_link": "Israeli-founded, Tel Aviv R&D",
+  "category": "Adtech / CTV",
+  "ats": "greenhouse",
+  "slug": "innovid",
+  "careers_url": "https://job-boards.greenhouse.io/innovid"
+ },
+ {
+  "name": "Island",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "island",
+  "careers_url": "https://job-boards.greenhouse.io/island"
+ },
+ {
+  "name": "JFrog (DevSecOps)",
+  "israel_link": "Israeli founders, Netanya/Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "jfrog",
+  "careers_url": "https://job-boards.greenhouse.io/jfrog"
+ },
+ {
+  "name": "K Health",
+  "israel_link": "Israeli founders (Allon Bloch); Tel Aviv R&D",
+  "category": "health/medtech/biotech",
+  "ats": "greenhouse",
+  "slug": "khealthcareers",
+  "careers_url": "https://job-boards.greenhouse.io/khealthcareers"
+ },
+ {
+  "name": "Lemonade",
+  "israel_link": "Israeli-founded insurtech (Daniel Schreiber, Shai Wininger)",
+  "category": "insurtech",
+  "ats": "ashby",
+  "slug": "Lemonade",
+  "careers_url": "https://jobs.ashbyhq.com/Lemonade"
+ },
+ {
+  "name": "Lendbuzz",
+  "israel_link": "Israeli-founded AI auto lending",
+  "category": "fintech",
+  "ats": "lever",
+  "slug": "lendbuzz",
+  "careers_url": "https://jobs.lever.co/lendbuzz"
+ },
+ {
+  "name": "Lightricks",
+  "israel_link": "Israeli-founded, Jerusalem HQ",
+  "category": "Creative AI / consumer apps",
+  "ats": "greenhouse",
+  "slug": "lightricks",
+  "careers_url": "https://job-boards.greenhouse.io/lightricks"
+ },
+ {
+  "name": "Lightrun",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "Dev tools / observability",
+  "ats": "greenhouse",
+  "slug": "lightrun",
+  "careers_url": "https://job-boards.greenhouse.io/lightrun"
+ },
+ {
+  "name": "Melio",
+  "israel_link": "Israeli-founded B2B payments (acquired by Xero 2025)",
+  "category": "fintech/payments",
+  "ats": "greenhouse",
+  "slug": "melio",
+  "careers_url": "https://job-boards.greenhouse.io/melio"
+ },
+ {
+  "name": "monday.com",
+  "israel_link": "Israeli-founded, Tel Aviv HQ",
+  "category": "Work management SaaS",
+  "ats": "ashby",
+  "slug": "monday.com",
+  "careers_url": "https://jobs.ashbyhq.com/monday.com"
+ },
+ {
+  "name": "Moon Active",
+  "israel_link": "Israeli HQ (Tel Aviv)",
+  "category": "consumer/food/gaming/other",
+  "ats": "ashby",
+  "slug": "moonactive",
+  "careers_url": "https://jobs.ashbyhq.com/moonactive"
+ },
+ {
+  "name": "Navan",
+  "israel_link": "Israeli-founded (Ilan Twig, Ariel Cohen) travel & expense",
+  "category": "fintech/spend",
+  "ats": "greenhouse",
+  "slug": "tripactions",
+  "careers_url": "https://job-boards.greenhouse.io/tripactions"
+ },
+ {
+  "name": "Next Insurance",
+  "israel_link": "Israeli-founded SMB insurtech (acquired by ERGO/Munich Re 2025)",
+  "category": "insurtech",
+  "ats": "greenhouse",
+  "slug": "nextinsurance66",
+  "careers_url": "https://job-boards.greenhouse.io/nextinsurance66"
+ },
+ {
+  "name": "Nexxen (formerly Tremor International)",
+  "israel_link": "Israeli-origin, Tel Aviv R&D",
+  "category": "Adtech",
+  "ats": "ashby",
+  "slug": "nexxen",
+  "careers_url": "https://jobs.ashbyhq.com/nexxen"
+ },
+ {
+  "name": "Novidea",
+  "israel_link": "Israeli-founded insurance broker software",
+  "category": "insurtech",
+  "ats": "ashby",
+  "slug": "novidea",
+  "careers_url": "https://jobs.ashbyhq.com/novidea"
+ },
+ {
+  "name": "Oasis Security",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "oasissecurity",
+  "careers_url": "https://job-boards.greenhouse.io/oasissecurity"
+ },
+ {
+  "name": "Obligo",
+  "israel_link": "Israeli-founded rental deposit fintech",
+  "category": "proptech/fintech",
+  "ats": "greenhouse",
+  "slug": "obligo",
+  "careers_url": "https://job-boards.greenhouse.io/obligo"
+ },
+ {
+  "name": "Optimove",
+  "israel_link": "Israeli-founded, Tel Aviv R&D",
+  "category": "Martech / CRM SaaS",
+  "ats": "greenhouse",
+  "slug": "optimove",
+  "careers_url": "https://job-boards.greenhouse.io/optimove"
+ },
+ {
+  "name": "Orca Security",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "orcasecurity",
+  "careers_url": "https://job-boards.greenhouse.io/orcasecurity"
+ },
+ {
+  "name": "Pagaya",
+  "israel_link": "Israeli-founded AI lending, Tel Aviv R&D",
+  "category": "fintech",
+  "ats": "greenhouse",
+  "slug": "pagaya",
+  "careers_url": "https://job-boards.greenhouse.io/pagaya"
+ },
+ {
+  "name": "Payoneer",
+  "israel_link": "Israeli-founded (Yuval Tal), large Petah Tikva R&D",
+  "category": "fintech/payments",
+  "ats": "greenhouse",
+  "slug": "payoneer",
+  "careers_url": "https://job-boards.greenhouse.io/payoneer"
+ },
+ {
+  "name": "Perion Network",
+  "israel_link": "Israeli HQ (Holon)",
+  "category": "Adtech",
+  "ats": "greenhouse",
+  "slug": "perionnetworkltd",
+  "careers_url": "https://job-boards.greenhouse.io/perionnetworkltd"
+ },
+ {
+  "name": "Placer.ai",
+  "israel_link": "Israeli-founded location analytics (real estate/retail)",
+  "category": "proptech/data",
+  "ats": "greenhouse",
+  "slug": "placerlabs",
+  "careers_url": "https://job-boards.greenhouse.io/placerlabs"
+ },
+ {
+  "name": "Playtika",
+  "israel_link": "Israeli HQ (Herzliya)",
+  "category": "Mobile gaming software",
+  "ats": "greenhouse",
+  "slug": "playtikaltd",
+  "careers_url": "https://job-boards.greenhouse.io/playtikaltd"
+ },
+ {
+  "name": "Redis",
+  "israel_link": "Israeli founders (Redis Labs), Tel Aviv R&D",
+  "category": "Database / data infra",
+  "ats": "ashby",
+  "slug": "redis",
+  "careers_url": "https://jobs.ashbyhq.com/redis"
+ },
+ {
+  "name": "Riskified",
+  "israel_link": "Israeli founders, Tel Aviv HQ (NYSE: RSKD)",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "riskified",
+  "careers_url": "https://job-boards.greenhouse.io/riskified"
+ },
+ {
+  "name": "SafeBreach",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "safebreach",
+  "careers_url": "https://job-boards.greenhouse.io/safebreach"
+ },
+ {
+  "name": "Salt Security",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "saltsecurity",
+  "careers_url": "https://job-boards.greenhouse.io/saltsecurity"
+ },
+ {
+  "name": "SentinelOne",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "sentinellabs",
+  "careers_url": "https://job-boards.greenhouse.io/sentinellabs"
+ },
+ {
+  "name": "Similarweb",
+  "israel_link": "Israeli-founded, Tel Aviv HQ",
+  "category": "Data / digital intelligence SaaS",
+  "ats": "greenhouse",
+  "slug": "similarweb",
+  "careers_url": "https://job-boards.greenhouse.io/similarweb"
+ },
+ {
+  "name": "Singular",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "Martech / mobile attribution",
+  "ats": "ashby",
+  "slug": "singular",
+  "careers_url": "https://jobs.ashbyhq.com/singular"
+ },
+ {
+  "name": "Sisense",
+  "israel_link": "Israeli-founded, Ramat Gan R&D",
+  "category": "BI / analytics SaaS",
+  "ats": "ashby",
+  "slug": "sisense",
+  "careers_url": "https://jobs.ashbyhq.com/sisense"
+ },
+ {
+  "name": "Snappy",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "Corporate gifting SaaS",
+  "ats": "ashby",
+  "slug": "snappy",
+  "careers_url": "https://jobs.ashbyhq.com/snappy"
+ },
+ {
+  "name": "Snyk",
+  "israel_link": "Israeli co-founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "snyk",
+  "careers_url": "https://job-boards.greenhouse.io/snyk"
+ },
+ {
+  "name": "Taboola",
+  "israel_link": "Israeli-founded, Tel Aviv R&D",
+  "category": "Adtech",
+  "ats": "greenhouse",
+  "slug": "taboola",
+  "careers_url": "https://job-boards.greenhouse.io/taboola"
+ },
+ {
+  "name": "Teads (formerly Outbrain)",
+  "israel_link": "Outbrain Israeli-founded; merged with Teads 2025",
+  "category": "Adtech",
+  "ats": "greenhouse",
+  "slug": "teads1",
+  "careers_url": "https://job-boards.greenhouse.io/teads1"
+ },
+ {
+  "name": "Tint",
+  "israel_link": "Israeli-founded embedded insurance",
+  "category": "insurtech",
+  "ats": "greenhouse",
+  "slug": "tintai",
+  "careers_url": "https://job-boards.greenhouse.io/tintai"
+ },
+ {
+  "name": "Tipalti",
+  "israel_link": "Israeli-founded AP/payments automation",
+  "category": "fintech/payments",
+  "ats": "greenhouse",
+  "slug": "tipaltisolutions",
+  "careers_url": "https://job-boards.greenhouse.io/tipaltisolutions"
+ },
+ {
+  "name": "Tomorrow.io",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "Weather intelligence / data SaaS",
+  "ats": "greenhouse",
+  "slug": "tomorrow",
+  "careers_url": "https://job-boards.greenhouse.io/tomorrow"
+ },
+ {
+  "name": "Torq",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "torq",
+  "careers_url": "https://job-boards.greenhouse.io/torq"
+ },
+ {
+  "name": "Transmit Security",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "transmitsecurity",
+  "careers_url": "https://job-boards.greenhouse.io/transmitsecurity"
+ },
+ {
+  "name": "Unit",
+  "israel_link": "Israeli-founded embedded banking (Itai Damti)",
+  "category": "fintech",
+  "ats": "ashby",
+  "slug": "unit",
+  "careers_url": "https://jobs.ashbyhq.com/unit"
+ },
+ {
+  "name": "Venn",
+  "israel_link": "Israeli-founded resident experience proptech",
+  "category": "proptech",
+  "ats": "greenhouse",
+  "slug": "venncity",
+  "careers_url": "https://job-boards.greenhouse.io/venncity"
+ },
+ {
+  "name": "Via Transportation",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "Transit SaaS",
+  "ats": "greenhouse",
+  "slug": "via",
+  "careers_url": "https://job-boards.greenhouse.io/via"
+ },
+ {
+  "name": "Vim",
+  "israel_link": "Israeli founders (Oron Afek); Tel Aviv R&D",
+  "category": "health/medtech/biotech",
+  "ats": "greenhouse",
+  "slug": "vim",
+  "careers_url": "https://job-boards.greenhouse.io/vim"
+ },
+ {
+  "name": "Viz.ai",
+  "israel_link": "Israeli co-founders (Chris Mansi/David Golan); Tel Aviv R&D",
+  "category": "health/medtech/biotech",
+  "ats": "ashby",
+  "slug": "viz.ai",
+  "careers_url": "https://jobs.ashbyhq.com/viz.ai"
+ },
+ {
+  "name": "WalkMe (SAP)",
+  "israel_link": "Israeli-founded, Tel Aviv; acquired by SAP 2024",
+  "category": "Digital adoption SaaS",
+  "ats": "lever",
+  "slug": "walkme",
+  "careers_url": "https://jobs.lever.co/walkme"
+ },
+ {
+  "name": "Wiz",
+  "israel_link": "Israeli founders, Tel Aviv R&D (acquired by Google)",
+  "category": "cybersecurity",
+  "ats": "greenhouse",
+  "slug": "wizinc",
+  "careers_url": "https://job-boards.greenhouse.io/wizinc"
+ },
+ {
+  "name": "Yotpo",
+  "israel_link": "Israeli-founded, Tel Aviv R&D",
+  "category": "E-commerce marketing SaaS",
+  "ats": "greenhouse",
+  "slug": "yotpo",
+  "careers_url": "https://job-boards.greenhouse.io/yotpo"
+ },
+ {
+  "name": "Akamai (Israel R&D)",
+  "israel_link": "Large Israel R&D (Guardicore, Noname, Linode)",
+  "category": "cybersecurity",
+  "ats": "workday",
+  "workday": {
+   "host": "akamai.wd1.myworkdayjobs.com",
+   "tenant": "akamai",
+   "site": "akamai_careers"
+  },
+  "careers_url": "https://akamai.wd1.myworkdayjobs.com/akamai_careers"
+ },
+ {
+  "name": "Analog Devices",
+  "israel_link": "Israel R&D",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "analogdevices.wd1.myworkdayjobs.com",
+   "tenant": "analogdevices",
+   "site": "External"
+  },
+  "careers_url": "https://analogdevices.wd1.myworkdayjobs.com/External"
+ },
+ {
+  "name": "Applied Materials",
+  "israel_link": "Israel R&D (Rehovot)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "amat.wd1.myworkdayjobs.com",
+   "tenant": "amat",
+   "site": "External"
+  },
+  "careers_url": "https://amat.wd1.myworkdayjobs.com/External"
+ },
+ {
+  "name": "Armis (ServiceNow)",
+  "israel_link": "Israeli founders, Tel Aviv R&D; acquired by ServiceNow",
+  "category": "cybersecurity",
+  "ats": "smartrecruiters",
+  "slug": "ServiceNow",
+  "careers_url": "https://jobs.smartrecruiters.com/ServiceNow"
+ },
+ {
+  "name": "Autodesk",
+  "israel_link": "Israel R&D (Tel Aviv)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "autodesk.wd1.myworkdayjobs.com",
+   "tenant": "autodesk",
+   "site": "Ext"
+  },
+  "careers_url": "https://autodesk.wd1.myworkdayjobs.com/Ext"
+ },
+ {
+  "name": "Broadcom",
+  "israel_link": "Israel R&D",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "broadcom.wd1.myworkdayjobs.com",
+   "tenant": "broadcom",
+   "site": "External_Career"
+  },
+  "careers_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career"
+ },
+ {
+  "name": "Cisco",
+  "israel_link": "Israel R&D (Netanya/Tel Aviv)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "cisco.wd5.myworkdayjobs.com",
+   "tenant": "cisco",
+   "site": "Cisco_Careers"
+  },
+  "careers_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers"
+ },
+ {
+  "name": "Dell Technologies",
+  "israel_link": "Israel R&D (Herzliya/Beer Sheva)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "dell.wd1.myworkdayjobs.com",
+   "tenant": "dell",
+   "site": "External"
+  },
+  "careers_url": "https://dell.wd1.myworkdayjobs.com/External"
+ },
+ {
+  "name": "eBay",
+  "israel_link": "Israel R&D (Netanya)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "ebay.wd5.myworkdayjobs.com",
+   "tenant": "ebay",
+   "site": "apply"
+  },
+  "careers_url": "https://ebay.wd5.myworkdayjobs.com/apply"
+ },
+ {
+  "name": "GE HealthCare",
+  "israel_link": "Haifa/Tirat Carmel R&D",
+  "category": "medtech MNC w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "gehc.wd5.myworkdayjobs.com",
+   "tenant": "gehc",
+   "site": "GEHC_ExternalSite"
+  },
+  "careers_url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite"
+ },
+ {
+  "name": "General Motors",
+  "israel_link": "GM Israel tech center (Herzliya)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "generalmotors.wd5.myworkdayjobs.com",
+   "tenant": "generalmotors",
+   "site": "Careers_GM"
+  },
+  "careers_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM"
+ },
+ {
+  "name": "HP Inc.",
+  "israel_link": "HP Indigo (Ness Ziona) large Israel ops",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "hp.wd5.myworkdayjobs.com",
+   "tenant": "hp",
+   "site": "ExternalCareerSite"
+  },
+  "careers_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite"
+ },
+ {
+  "name": "Imperva (Thales)",
+  "israel_link": "Israeli-origin, Tel Aviv R&D; acquired by Thales",
+  "category": "cybersecurity",
+  "ats": "workday",
+  "workday": {
+   "host": "thales.wd3.myworkdayjobs.com",
+   "tenant": "thales",
+   "site": "Careers"
+  },
+  "careers_url": "https://careers.thalesgroup.com/"
+ },
+ {
+  "name": "Intel",
+  "israel_link": "Large Israel R&D & fabs (Haifa, Kiryat Gat)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "intel.wd1.myworkdayjobs.com",
+   "tenant": "intel",
+   "site": "External"
+  },
+  "careers_url": "https://intel.wd1.myworkdayjobs.com/External"
+ },
+ {
+  "name": "Johnson & Johnson (Biosense Webster)",
+  "israel_link": "Biosense Webster R&D in Yokneam",
+  "category": "medtech MNC w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "jj.wd5.myworkdayjobs.com",
+   "tenant": "jj",
+   "site": "JJ"
+  },
+  "careers_url": "https://jj.wd5.myworkdayjobs.com/JJ"
+ },
+ {
+  "name": "KLA",
+  "israel_link": "Israel R&D (Migdal HaEmek, ex-Orbotech)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "kla.wd1.myworkdayjobs.com",
+   "tenant": "kla",
+   "site": "Search"
+  },
+  "careers_url": "https://kla.wd1.myworkdayjobs.com/Search"
+ },
+ {
+  "name": "Marvell",
+  "israel_link": "Israel R&D (Yokneam/Petah Tikva)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "marvell.wd1.myworkdayjobs.com",
+   "tenant": "marvell",
+   "site": "MarvellCareers"
+  },
+  "careers_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers"
+ },
+ {
+  "name": "Medtronic",
+  "israel_link": "Israel R&D via Mazor Robotics & Given Imaging",
+  "category": "medtech MNC w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "medtronic.wd1.myworkdayjobs.com",
+   "tenant": "medtronic",
+   "site": "MedtronicCareers"
+  },
+  "careers_url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers"
+ },
+ {
+  "name": "Micron Technology",
+  "israel_link": "Israel R&D (Tel Aviv/Haifa)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "micron.wd1.myworkdayjobs.com",
+   "tenant": "micron",
+   "site": "External"
+  },
+  "careers_url": "https://micron.wd1.myworkdayjobs.com/External"
+ },
+ {
+  "name": "Motorola Solutions",
+  "israel_link": "Israel R&D (Airport City)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "motorolasolutions.wd5.myworkdayjobs.com",
+   "tenant": "motorolasolutions",
+   "site": "Careers"
+  },
+  "careers_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers"
+ },
+ {
+  "name": "NVIDIA",
+  "israel_link": "Large Israel R&D (Mellanox, Yokneam)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "nvidia.wd5.myworkdayjobs.com",
+   "tenant": "nvidia",
+   "site": "NVIDIAExternalCareerSite"
+  },
+  "careers_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
+ },
+ {
+  "name": "PayPal",
+  "israel_link": "Israel R&D (Tel Aviv/Beer Sheva)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "paypal.wd1.myworkdayjobs.com",
+   "tenant": "paypal",
+   "site": "jobs"
+  },
+  "careers_url": "https://paypal.wd1.myworkdayjobs.com/jobs"
+ },
+ {
+  "name": "Philips",
+  "israel_link": "Haifa R&D (imaging)",
+  "category": "medtech MNC w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "philips.wd3.myworkdayjobs.com",
+   "tenant": "philips",
+   "site": "jobs-and-careers"
+  },
+  "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers"
+ },
+ {
+  "name": "Salesforce",
+  "israel_link": "Israel R&D (Tel Aviv)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "workday",
+  "workday": {
+   "host": "salesforce.wd12.myworkdayjobs.com",
+   "tenant": "salesforce",
+   "site": "External_Career_Site"
+  },
+  "careers_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site"
+ },
+ {
+  "name": "WeWork",
+  "israel_link": "Israeli co-founder (Adam Neumann)",
+  "category": "proptech",
+  "ats": "workday",
+  "workday": {
+   "host": "wework.wd1.myworkdayjobs.com",
+   "tenant": "wework",
+   "site": "WeWork"
+  },
+  "careers_url": "https://wework.wd1.myworkdayjobs.com/WeWork"
+ },
+ {
+  "name": "Wix",
+  "israel_link": "Israeli-founded, Tel Aviv HQ",
+  "category": "Website builder SaaS",
+  "ats": "smartrecruiters",
+  "slug": "Wix2",
+  "careers_url": "https://careers.smartrecruiters.com/Wix2"
+ },
+ {
+  "name": "Zencity",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "GovTech analytics SaaS",
+  "ats": "smartrecruiters",
+  "slug": "Zencity1",
+  "careers_url": "https://careers.smartrecruiters.com/Zencity1"
+ },
+ {
+  "name": "AI21 Labs",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "Generative AI / LLMs",
+  "ats": "comeet",
+  "slug": "ai21",
+  "url": "https://www.comeet.com/jobs/ai21/E6.001",
+  "careers_url": "https://www.comeet.com/jobs/ai21/E6.001"
+ },
+ {
+  "name": "Aidoc",
+  "israel_link": "Israeli-founded, Tel Aviv HQ",
+  "category": "health/medtech/biotech",
+  "ats": "comeet",
+  "slug": "Aidoc",
+  "url": "https://www.comeet.com/jobs/Aidoc/B4.007",
+  "careers_url": "https://www.comeet.com/jobs/Aidoc/B4.007"
+ },
+ {
+  "name": "Anyword",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "AI marketing copy",
+  "ats": "comeet",
+  "slug": "anyword",
+  "url": "https://www.comeet.com/jobs/anyword/30.00B",
+  "careers_url": "https://www.comeet.com/jobs/anyword/30.00B"
+ },
+ {
+  "name": "Aqua Security",
+  "israel_link": "Israeli founders, Ramat Gan HQ",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "aquasec",
+  "url": "https://www.comeet.com/jobs/aquasec/91.001",
+  "careers_url": "https://www.comeet.com/jobs/aquasec/91.001"
+ },
+ {
+  "name": "AU10TIX",
+  "israel_link": "Israeli identity verification (KYC)",
+  "category": "fintech/identity",
+  "ats": "comeet",
+  "slug": "au10tix",
+  "url": "https://www.comeet.com/jobs/au10tix/3A.00C",
+  "careers_url": "https://www.comeet.com/jobs/au10tix/3A.00C"
+ },
+ {
+  "name": "Balance",
+  "israel_link": "Israeli-founded B2B payments",
+  "category": "payments",
+  "ats": "comeet",
+  "slug": "balance",
+  "url": "https://www.comeet.com/jobs/balance/67.008",
+  "careers_url": "https://www.comeet.com/jobs/balance/67.008"
+ },
+ {
+  "name": "BioCatch",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "biocatch",
+  "url": "https://www.comeet.com/jobs/biocatch/03.00E",
+  "careers_url": "https://www.comeet.com/jobs/biocatch/03.00E"
+ },
+ {
+  "name": "Bizzabo",
+  "israel_link": "Israeli-founded, Tel Aviv R&D",
+  "category": "Event management SaaS",
+  "ats": "comeet",
+  "slug": "bizzabo",
+  "url": "https://www.comeet.com/jobs/bizzabo/A5.000",
+  "careers_url": "https://www.comeet.com/jobs/bizzabo/A5.000"
+ },
+ {
+  "name": "Bright Data",
+  "israel_link": "Israeli-founded, Netanya",
+  "category": "Web data platform",
+  "ats": "comeet",
+  "slug": "brightdata",
+  "url": "https://www.comeet.com/jobs/brightdata/88.007",
+  "careers_url": "https://www.comeet.com/jobs/brightdata/88.007"
+ },
+ {
+  "name": "Chargeflow",
+  "israel_link": "Israeli-founded chargeback automation",
+  "category": "payments",
+  "ats": "comeet",
+  "slug": "chargeflow",
+  "url": "https://www.comeet.com/jobs/chargeflow/29.001",
+  "careers_url": "https://www.comeet.com/jobs/chargeflow/29.001"
+ },
+ {
+  "name": "Checkmarx",
+  "israel_link": "Israeli founders, Ramat Gan R&D",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "checkmarx",
+  "url": "https://www.comeet.com/jobs/checkmarx/C0.008",
+  "careers_url": "https://www.comeet.com/jobs/checkmarx/C0.008"
+ },
+ {
+  "name": "Claroty",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "Claroty",
+  "url": "https://www.comeet.com/jobs/Claroty/F2.004",
+  "careers_url": "https://www.comeet.com/jobs/Claroty/F2.004"
+ },
+ {
+  "name": "Coralogix",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "Observability / dev tools",
+  "ats": "comeet",
+  "slug": "coralogix",
+  "url": "https://www.comeet.com/jobs/coralogix/06.004",
+  "careers_url": "https://www.comeet.com/jobs/coralogix/06.004"
+ },
+ {
+  "name": "Cyera",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "cyera",
+  "url": "https://www.comeet.com/jobs/cyera/17.008",
+  "careers_url": "https://www.comeet.com/jobs/cyera/17.008"
+ },
+ {
+  "name": "Cynet",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "cynet",
+  "url": "https://www.comeet.com/jobs/cynet/33.00D",
+  "careers_url": "https://www.comeet.com/jobs/cynet/33.00D"
+ },
+ {
+  "name": "Dataloop AI",
+  "israel_link": "Israeli-founded, Herzliya",
+  "category": "AI data platform",
+  "ats": "comeet",
+  "slug": "dataloop",
+  "url": "https://www.comeet.com/jobs/dataloop/B5.00A",
+  "careers_url": "https://www.comeet.com/jobs/dataloop/B5.00A"
+ },
+ {
+  "name": "DealHub",
+  "israel_link": "Israeli founders",
+  "category": "CPQ / revenue SaaS",
+  "ats": "comeet",
+  "slug": "dealhub",
+  "url": "https://www.comeet.com/jobs/dealhub/86.005",
+  "careers_url": "https://www.comeet.com/jobs/dealhub/86.005"
+ },
+ {
+  "name": "Deep Instinct",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "deepinstinct",
+  "url": "https://www.comeet.com/jobs/deepinstinct/72.00A",
+  "careers_url": "https://www.comeet.com/jobs/deepinstinct/72.00A"
+ },
+ {
+  "name": "Earnix",
+  "israel_link": "Israeli-founded insurance/banking pricing AI",
+  "category": "insurtech/fintech",
+  "ats": "comeet",
+  "slug": "earnix",
+  "url": "https://www.comeet.com/jobs/earnix/93.00B",
+  "careers_url": "https://www.comeet.com/jobs/earnix/93.00B"
+ },
+ {
+  "name": "EasySend",
+  "israel_link": "Israeli-founded digital forms for insurers/banks",
+  "category": "insurtech/fintech",
+  "ats": "comeet",
+  "slug": "easysend",
+  "url": "https://www.comeet.com/jobs/easysend/D5.009",
+  "careers_url": "https://www.comeet.com/jobs/easysend/D5.009"
+ },
+ {
+  "name": "Elementor",
+  "israel_link": "Israeli-founded, Ramat Gan",
+  "category": "Website builder",
+  "ats": "comeet",
+  "slug": "Elementor",
+  "url": "https://www.comeet.com/jobs/Elementor/A3.00F",
+  "careers_url": "https://www.comeet.com/jobs/Elementor/A3.00F"
+ },
+ {
+  "name": "eToro",
+  "israel_link": "Israeli-founded trading/investing platform",
+  "category": "fintech",
+  "ats": "comeet",
+  "slug": "etoro",
+  "url": "https://www.comeet.com/jobs/etoro/41.009",
+  "careers_url": "https://www.comeet.com/jobs/etoro/41.009"
+ },
+ {
+  "name": "Explorium",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "Data / AI platform",
+  "ats": "comeet",
+  "slug": "explorium",
+  "url": "https://www.comeet.com/jobs/explorium/B4.00E",
+  "careers_url": "https://www.comeet.com/jobs/explorium/B4.00E"
+ },
+ {
+  "name": "Firebolt",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "Cloud data warehouse",
+  "ats": "comeet",
+  "slug": "firebolt",
+  "url": "https://www.comeet.com/jobs/firebolt/26.004",
+  "careers_url": "https://www.comeet.com/jobs/firebolt/26.004"
+ },
+ {
+  "name": "Fiverr",
+  "israel_link": "Israeli-founded, Tel Aviv HQ",
+  "category": "Freelance marketplace",
+  "ats": "comeet",
+  "slug": "fiverr",
+  "url": "https://www.comeet.com/jobs/fiverr/60.002",
+  "careers_url": "https://www.comeet.com/jobs/fiverr/60.002"
+ },
+ {
+  "name": "Freightos",
+  "israel_link": "Israeli-founded, Jerusalem",
+  "category": "Freight marketplace / logistics tech",
+  "ats": "comeet",
+  "slug": "freightos",
+  "url": "https://www.comeet.com/jobs/freightos/F0.000",
+  "careers_url": "https://www.comeet.com/jobs/freightos/F0.000"
+ },
+ {
+  "name": "FundGuard",
+  "israel_link": "Israeli-founded fund accounting platform",
+  "category": "fintech",
+  "ats": "comeet",
+  "slug": "fundguard",
+  "url": "https://www.comeet.com/jobs/fundguard/37.002",
+  "careers_url": "https://www.comeet.com/jobs/fundguard/37.002"
+ },
+ {
+  "name": "Glassbox",
+  "israel_link": "Israeli-founded, Petah Tikva",
+  "category": "Digital experience analytics",
+  "ats": "comeet",
+  "slug": "glassbox",
+  "url": "https://www.comeet.com/jobs/glassbox/53.00C",
+  "careers_url": "https://www.comeet.com/jobs/glassbox/53.00C"
+ },
+ {
+  "name": "Gloat",
+  "israel_link": "Israeli-founded internal talent marketplace",
+  "category": "hr-tech/talent",
+  "ats": "comeet",
+  "slug": "gloat",
+  "url": "https://www.comeet.com/jobs/gloat/E5.000",
+  "careers_url": "https://www.comeet.com/jobs/gloat/E5.000"
+ },
+ {
+  "name": "Global-e",
+  "israel_link": "Israeli-founded, Petah Tikva HQ",
+  "category": "Cross-border e-commerce tech",
+  "ats": "comeet",
+  "slug": "global-e",
+  "url": "https://www.comeet.com/jobs/global-e/62.002",
+  "careers_url": "https://www.comeet.com/jobs/global-e/62.002"
+ },
+ {
+  "name": "groundcover",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "Observability",
+  "ats": "comeet",
+  "slug": "groundcover",
+  "url": "https://www.comeet.com/jobs/groundcover/88.008",
+  "careers_url": "https://www.comeet.com/jobs/groundcover/88.008"
+ },
+ {
+  "name": "Guesty",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "Property-management SaaS",
+  "ats": "comeet",
+  "slug": "guesty",
+  "url": "https://www.comeet.com/jobs/guesty/10.000",
+  "careers_url": "https://www.comeet.com/jobs/guesty/10.000"
+ },
+ {
+  "name": "Hailo",
+  "israel_link": "Israeli HQ (Tel Aviv)",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://hailo.ai/company-overview/careers/"
+ },
+ {
+  "name": "Innoviz Technologies",
+  "israel_link": "Israeli HQ (Rosh HaAyin)",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://innoviz.tech/join-us/usa"
+ },
+ {
+  "name": "Justt",
+  "israel_link": "Israeli-founded chargeback mitigation",
+  "category": "payments",
+  "ats": "comeet",
+  "slug": "justt",
+  "url": "https://www.comeet.com/jobs/justt/36.001",
+  "careers_url": "https://www.comeet.com/jobs/justt/36.001"
+ },
+ {
+  "name": "Kaltura",
+  "israel_link": "Israeli founders, Ramat Gan R&D",
+  "category": "Video SaaS",
+  "ats": "comeet",
+  "slug": "kaltura",
+  "url": "https://www.comeet.com/jobs/kaltura/E2.00D",
+  "careers_url": "https://www.comeet.com/jobs/kaltura/E2.00D"
+ },
+ {
+  "name": "Komodor",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "Kubernetes dev tools",
+  "ats": "comeet",
+  "slug": "komodor",
+  "url": "https://www.comeet.com/jobs/komodor/96.005",
+  "careers_url": "https://www.comeet.com/jobs/komodor/96.005"
+ },
+ {
+  "name": "Kornit Digital",
+  "israel_link": "Israeli HQ (Rosh HaAyin)",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://careers.kornit.com/"
+ },
+ {
+  "name": "Legit Security",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "legitsecurity.com",
+  "url": "https://www.comeet.com/jobs/legitsecurity.com/37.004",
+  "careers_url": "https://www.comeet.com/jobs/legitsecurity.com/37.004"
+ },
+ {
+  "name": "Lili",
+  "israel_link": "Israeli-founded SMB banking",
+  "category": "fintech",
+  "ats": "comeet",
+  "slug": "lili",
+  "url": "https://www.comeet.com/jobs/lili/A6.009",
+  "careers_url": "https://www.comeet.com/jobs/lili/A6.009"
+ },
+ {
+  "name": "Lusha",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "Sales intelligence SaaS",
+  "ats": "comeet",
+  "slug": "lusha",
+  "url": "https://www.comeet.com/jobs/lusha/73.00B",
+  "careers_url": "https://www.comeet.com/jobs/lusha/73.00B"
+ },
+ {
+  "name": "Minute Media",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "Digital media / publisher tech",
+  "ats": "comeet",
+  "slug": "minutemedia",
+  "url": "https://www.comeet.com/jobs/minutemedia/45.00A",
+  "careers_url": "https://www.comeet.com/jobs/minutemedia/45.00A"
+ },
+ {
+  "name": "Nagomi Security",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "NagomiSecurity",
+  "url": "https://www.comeet.com/jobs/NagomiSecurity/89.00B",
+  "careers_url": "https://www.comeet.com/jobs/NagomiSecurity/89.00B"
+ },
+ {
+  "name": "Namogoo",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "E-commerce journey AI",
+  "ats": "comeet",
+  "slug": "namogoo",
+  "url": "https://www.comeet.com/jobs/namogoo/B4.006",
+  "careers_url": "https://www.comeet.com/jobs/namogoo/B4.006"
+ },
+ {
+  "name": "Nano Dimension (Desktop Metal/Markforged)",
+  "israel_link": "Israeli HQ (Ness Ziona)",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://www.nano-di.com/job-openings"
+ },
+ {
+  "name": "Nayax",
+  "israel_link": "Israeli cashless payments (Nasdaq/TASE)",
+  "category": "payments",
+  "ats": "comeet",
+  "slug": "nayax",
+  "url": "https://www.comeet.com/jobs/nayax/13.009",
+  "careers_url": "https://www.comeet.com/jobs/nayax/13.009"
+ },
+ {
+  "name": "Noma Security",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "noma_security",
+  "url": "https://www.comeet.com/jobs/noma_security/3A.005",
+  "careers_url": "https://www.comeet.com/jobs/noma_security/3A.005"
+ },
+ {
+  "name": "Noname Security (Akamai)",
+  "israel_link": "Israeli founders; acquired by Akamai",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "noname",
+  "url": "https://www.comeet.com/jobs/noname/86.001",
+  "careers_url": "https://www.comeet.com/jobs/noname/86.001"
+ },
+ {
+  "name": "Oligo Security",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "oligosecurity",
+  "url": "https://www.comeet.com/jobs/oligosecurity/5A.00B",
+  "careers_url": "https://www.comeet.com/jobs/oligosecurity/5A.00B"
+ },
+ {
+  "name": "Optibus",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "Transit planning SaaS",
+  "ats": "comeet",
+  "slug": "optibus",
+  "url": "https://www.comeet.com/jobs/optibus/D1.00C",
+  "careers_url": "https://www.comeet.com/jobs/optibus/D1.00C"
+ },
+ {
+  "name": "Papaya Global",
+  "israel_link": "Israeli-founded global payroll/EOR",
+  "category": "hr-tech/payroll",
+  "ats": "comeet",
+  "slug": "papayaglobal",
+  "url": "https://www.comeet.com/jobs/papayaglobal/16.005",
+  "careers_url": "https://www.comeet.com/jobs/papayaglobal/16.005"
+ },
+ {
+  "name": "Pentera",
+  "israel_link": "Israeli founders, Petah Tikva HQ",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "pentera",
+  "url": "https://www.comeet.com/jobs/pentera/C5.00D",
+  "careers_url": "https://www.comeet.com/jobs/pentera/C5.00D"
+ },
+ {
+  "name": "Personetics",
+  "israel_link": "Israeli-founded AI banking personalization",
+  "category": "fintech",
+  "ats": "comeet",
+  "slug": "personetics",
+  "url": "https://www.comeet.com/jobs/personetics/83.00A",
+  "careers_url": "https://www.comeet.com/jobs/personetics/83.00A"
+ },
+ {
+  "name": "Plus500 (US)",
+  "israel_link": "Israeli trading platform; US futures arm (Chicago)",
+  "category": "fintech",
+  "ats": "comeet",
+  "slug": "plus500",
+  "url": "https://www.comeet.com/jobs/plus500/A1.00F",
+  "careers_url": "https://www.comeet.com/jobs/plus500/A1.00F"
+ },
+ {
+  "name": "Port",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "Internal developer portal",
+  "ats": "comeet",
+  "slug": "port",
+  "url": "https://www.comeet.com/jobs/port/59.004",
+  "careers_url": "https://www.comeet.com/jobs/port/59.004"
+ },
+ {
+  "name": "Qodo (formerly CodiumAI)",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "AI dev tools",
+  "ats": "comeet",
+  "slug": "qodo",
+  "url": "https://www.comeet.com/jobs/qodo/B8.00B",
+  "careers_url": "https://www.comeet.com/jobs/qodo/B8.00B"
+ },
+ {
+  "name": "Rapyd",
+  "israel_link": "Israeli-founded fintech-as-a-service payments",
+  "category": "payments",
+  "ats": "comeet",
+  "slug": "rapyd",
+  "url": "https://www.comeet.com/jobs/rapyd/73.00E",
+  "careers_url": "https://www.comeet.com/jobs/rapyd/73.00E"
+ },
+ {
+  "name": "Riverside.fm",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "Creator video/audio SaaS",
+  "ats": "comeet",
+  "slug": "riverside-fm",
+  "url": "https://www.comeet.com/jobs/riverside-fm/66.009",
+  "careers_url": "https://www.comeet.com/jobs/riverside-fm/66.009"
+ },
+ {
+  "name": "Silverfort",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "silverfort",
+  "url": "https://www.comeet.com/jobs/silverfort/54.007",
+  "careers_url": "https://www.comeet.com/jobs/silverfort/54.007"
+ },
+ {
+  "name": "Skai (formerly Kenshoo)",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "Martech / commerce media",
+  "ats": "comeet",
+  "slug": "skai",
+  "url": "https://www.comeet.com/jobs/skai/22.00A",
+  "careers_url": "https://www.comeet.com/jobs/skai/22.00A"
+ },
+ {
+  "name": "SQream",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "GPU data analytics",
+  "ats": "comeet",
+  "slug": "sqream",
+  "url": "https://www.comeet.com/jobs/sqream/45.00B",
+  "careers_url": "https://www.comeet.com/jobs/sqream/45.00B"
+ },
+ {
+  "name": "Stampli",
+  "israel_link": "Israeli-founded AP automation",
+  "category": "fintech",
+  "ats": "comeet",
+  "slug": "stampli",
+  "url": "https://www.comeet.com/jobs/stampli/F6.007",
+  "careers_url": "https://www.comeet.com/jobs/stampli/F6.007"
+ },
+ {
+  "name": "Sunbit",
+  "israel_link": "Israeli-founded BNPL/point-of-sale financing",
+  "category": "fintech/payments",
+  "ats": "comeet",
+  "slug": "sunbit",
+  "url": "https://www.comeet.com/jobs/sunbit/37.001",
+  "careers_url": "https://www.comeet.com/jobs/sunbit/37.001"
+ },
+ {
+  "name": "Sygnia",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "sygnia",
+  "url": "https://www.comeet.com/jobs/sygnia/78.00A",
+  "careers_url": "https://www.comeet.com/jobs/sygnia/78.00A"
+ },
+ {
+  "name": "Syte",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "E-commerce visual AI",
+  "ats": "comeet",
+  "slug": "syte",
+  "url": "https://www.comeet.com/jobs/syte/74.002",
+  "careers_url": "https://www.comeet.com/jobs/syte/74.002"
+ },
+ {
+  "name": "Tabnine",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "AI dev tools",
+  "ats": "comeet",
+  "slug": "tabnine",
+  "url": "https://www.comeet.com/jobs/tabnine/39.006",
+  "careers_url": "https://www.comeet.com/jobs/tabnine/39.006"
+ },
+ {
+  "name": "Tailor Brands",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "SMB branding SaaS",
+  "ats": "comeet",
+  "slug": "tailorbrands",
+  "url": "https://www.comeet.com/jobs/tailorbrands/94.009",
+  "careers_url": "https://www.comeet.com/jobs/tailorbrands/94.009"
+ },
+ {
+  "name": "ThetaRay",
+  "israel_link": "Israeli-founded AML/financial crime AI",
+  "category": "fintech/regtech",
+  "ats": "comeet",
+  "slug": "thetaray",
+  "url": "https://www.comeet.com/jobs/thetaray/72.00F",
+  "careers_url": "https://www.comeet.com/jobs/thetaray/72.00F"
+ },
+ {
+  "name": "Trax",
+  "israel_link": "Israeli founders",
+  "category": "Retail computer vision",
+  "ats": "comeet",
+  "slug": "traxretail",
+  "url": "https://www.comeet.com/jobs/traxretail/22.007",
+  "careers_url": "https://www.comeet.com/jobs/traxretail/22.007"
+ },
+ {
+  "name": "Upwind Security",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "upwind",
+  "url": "https://www.comeet.com/jobs/upwind/49.004",
+  "careers_url": "https://www.comeet.com/jobs/upwind/49.004"
+ },
+ {
+  "name": "VAST Data",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "AI data infrastructure",
+  "ats": "comeet",
+  "slug": "vastdata",
+  "url": "https://www.comeet.com/jobs/vastdata/43.001",
+  "careers_url": "https://www.comeet.com/jobs/vastdata/43.001"
+ },
+ {
+  "name": "vcita",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "SMB business-management SaaS",
+  "ats": "comeet",
+  "slug": "vcita",
+  "url": "https://www.comeet.com/jobs/vcita/83.002",
+  "careers_url": "https://www.comeet.com/jobs/vcita/83.002"
+ },
+ {
+  "name": "Verbit",
+  "israel_link": "Israeli-founded, Tel Aviv R&D",
+  "category": "AI transcription",
+  "ats": "comeet",
+  "slug": "verbit",
+  "url": "https://www.comeet.com/jobs/verbit/C2.000",
+  "careers_url": "https://www.comeet.com/jobs/verbit/C2.000"
+ },
+ {
+  "name": "Verint",
+  "israel_link": "Israeli-origin; large Israel R&D",
+  "category": "Customer engagement software",
+  "ats": "comeet",
+  "slug": "verint",
+  "url": "https://www.comeet.com/jobs/verint/F2.009",
+  "careers_url": "https://www.comeet.com/jobs/verint/F2.009"
+ },
+ {
+  "name": "Voyantis",
+  "israel_link": "Israeli-founded, Tel Aviv",
+  "category": "Predictive growth AI",
+  "ats": "comeet",
+  "slug": "voyantis",
+  "url": "https://www.comeet.com/jobs/voyantis/86.00B",
+  "careers_url": "https://www.comeet.com/jobs/voyantis/86.00B"
+ },
+ {
+  "name": "Wiliot",
+  "israel_link": "Israeli founders; Tel Aviv/Caesarea R&D",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "comeet",
+  "slug": "wiliot",
+  "url": "https://www.comeet.com/jobs/wiliot/F6.003",
+  "careers_url": "https://www.comeet.com/jobs/wiliot/F6.003"
+ },
+ {
+  "name": "Workiz",
+  "israel_link": "Israeli founders",
+  "category": "Field-service SaaS",
+  "ats": "comeet",
+  "slug": "workiz",
+  "url": "https://www.comeet.com/jobs/workiz/F6.006",
+  "careers_url": "https://www.comeet.com/jobs/workiz/F6.006"
+ },
+ {
+  "name": "WSC Sports",
+  "israel_link": "Israeli-founded, Givatayim",
+  "category": "Sports video AI",
+  "ats": "comeet",
+  "slug": "wsc-sports",
+  "url": "https://www.comeet.com/jobs/wsc-sports/93.007",
+  "careers_url": "https://www.comeet.com/jobs/wsc-sports/93.007"
+ },
+ {
+  "name": "XM Cyber",
+  "israel_link": "Israeli founders, Herzliya/Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "xmcyber",
+  "url": "https://www.comeet.com/jobs/xmcyber/15.005",
+  "careers_url": "https://www.comeet.com/jobs/xmcyber/15.005"
+ },
+ {
+  "name": "Zafran",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "comeet",
+  "slug": "zafran_io",
+  "url": "https://www.comeet.com/jobs/zafran_io/49.009",
+  "careers_url": "https://www.comeet.com/jobs/zafran_io/49.009"
+ },
+ {
+  "name": "Alice (formerly ActiveFence)",
+  "israel_link": "Israeli founders, Tel Aviv R&D (AI safety/trust)",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.activefence.com/careers/"
+ },
+ {
+  "name": "Alma Lasers",
+  "israel_link": "Israeli HQ (Caesarea)",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://www.almalasers.com/careers/"
+ },
+ {
+  "name": "Amazon / AWS",
+  "israel_link": "Israel R&D (Annapurna Labs, Haifa/Tel Aviv)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "other",
+  "careers_url": "https://www.amazon.jobs/"
+ },
+ {
+  "name": "Amdocs",
+  "israel_link": "Israeli-origin, major Israel R&D",
+  "category": "Telecom software",
+  "ats": "other",
+  "careers_url": "https://jobs.amdocs.com/careers"
+ },
+ {
+  "name": "Anecdotes",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.anecdotes.ai/careers"
+ },
+ {
+  "name": "Apple",
+  "israel_link": "Israel R&D (Herzliya/Haifa; Anobit, PrimeSense)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "other",
+  "careers_url": "https://jobs.apple.com/"
+ },
+ {
+  "name": "Astrix Security",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://astrix.security/careers/"
+ },
+ {
+  "name": "Augmedics",
+  "israel_link": "Israeli-founded AR surgery",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://augmedics.com/careers/"
+ },
+ {
+  "name": "Backslash Security",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.backslash.security/careers"
+ },
+ {
+  "name": "BlinkOps",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.blinkops.com/careers"
+ },
+ {
+  "name": "Brainsway",
+  "israel_link": "Israeli HQ (Jerusalem)",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://www.brainsway.com/careers/"
+ },
+ {
+  "name": "Buildots",
+  "israel_link": "Israeli-founded construction progress AI",
+  "category": "proptech/construction",
+  "ats": "other",
+  "careers_url": "https://buildots.com/careers/"
+ },
+ {
+  "name": "Caesarstone US",
+  "israel_link": "Israeli HQ",
+  "category": "consumer/food/gaming/other",
+  "ats": "other",
+  "careers_url": "https://www.caesarstone.com/careers/"
+ },
+ {
+  "name": "Camtek",
+  "israel_link": "Israeli HQ (Migdal HaEmek)",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://www.camtek.com/careers/"
+ },
+ {
+  "name": "Candela Medical",
+  "israel_link": "Israeli-origin (Syneron merger)",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://candelamedical.com/careers/"
+ },
+ {
+  "name": "Cellebrite",
+  "israel_link": "Israeli HQ (Petah Tikva)",
+  "category": "defense/gov/security",
+  "ats": "other",
+  "careers_url": "https://cellebrite.com/en/careers/"
+ },
+ {
+  "name": "Ceragon Networks",
+  "israel_link": "Israeli HQ",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://www.ceragon.com/careers"
+ },
+ {
+  "name": "Check Point Software",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://careers.checkpoint.com/"
+ },
+ {
+  "name": "Cognyte",
+  "israel_link": "Israeli HQ (Herzliya)",
+  "category": "defense/gov/security",
+  "ats": "other",
+  "careers_url": "https://www.cognyte.com/careers/"
+ },
+ {
+  "name": "CyberArk (Palo Alto Networks)",
+  "israel_link": "Israeli founders, Petah Tikva HQ; acquired by PANW",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.cyberark.com/careers/"
+ },
+ {
+  "name": "Cylus",
+  "israel_link": "Israeli founders, Tel Aviv HQ (rail cyber)",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.cylus.com/careers"
+ },
+ {
+  "name": "Cyolo",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://cyolo.io/careers"
+ },
+ {
+  "name": "Dario Health",
+  "israel_link": "Israeli-founded (Caesarea R&D)",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://www.dariohealth.com/careers/"
+ },
+ {
+  "name": "Daylight Security",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://daylight.ai/careers"
+ },
+ {
+  "name": "Delta Galil USA",
+  "israel_link": "Israeli HQ Delta Galil Industries",
+  "category": "consumer/food/gaming/other",
+  "ats": "other",
+  "careers_url": "https://www.deltagalil.com/careers/"
+ },
+ {
+  "name": "DRS RADA Technologies (Leonardo DRS)",
+  "israel_link": "RADA Israeli radar merged into Leonardo DRS",
+  "category": "defense/gov/security",
+  "ats": "other",
+  "careers_url": "https://www.leonardodrs.com/careers/"
+ },
+ {
+  "name": "Enlight Renewable Energy (Clenera)",
+  "israel_link": "Israeli HQ; Clenera US subsidiary",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://clenera.com/careers/"
+ },
+ {
+  "name": "Eviation Aircraft",
+  "israel_link": "Israeli-founded electric aircraft",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://www.eviation.com/careers/"
+ },
+ {
+  "name": "Frontegg",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://frontegg.com/careers"
+ },
+ {
+  "name": "Gauzy",
+  "israel_link": "Israeli HQ (Tel Aviv)",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://www.gauzy.com/careers/"
+ },
+ {
+  "name": "Gett",
+  "israel_link": "Israeli-founded",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://gett.com/careers/"
+ },
+ {
+  "name": "Gilat Satellite Networks (Wavestream/DataPath)",
+  "israel_link": "Israeli HQ (Petah Tikva)",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://www.gilat.com/careers/"
+ },
+ {
+  "name": "Google",
+  "israel_link": "Large Israel R&D (Tel Aviv/Haifa), owns Waze",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "other",
+  "careers_url": "https://www.google.com/about/careers/applications/jobs/results/"
+ },
+ {
+  "name": "Grip Security",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.grip.security/careers"
+ },
+ {
+  "name": "Guardio",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://guard.io/careers"
+ },
+ {
+  "name": "HiBob",
+  "israel_link": "Israeli-founded HRIS (bob)",
+  "category": "hr-tech/HRIS",
+  "ats": "other",
+  "careers_url": "https://careers.hibob.com/jobs"
+ },
+ {
+  "name": "Hunters",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.hunters.security/careers"
+ },
+ {
+  "name": "IAI North America",
+  "israel_link": "US subsidiary of Israel Aerospace Industries",
+  "category": "defense/gov/security",
+  "ats": "other",
+  "careers_url": "https://www.iai-na.com/"
+ },
+ {
+  "name": "IBM",
+  "israel_link": "Israel R&D (Haifa research lab)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "other",
+  "careers_url": "https://www.ibm.com/careers/search"
+ },
+ {
+  "name": "ICL Group (US)",
+  "israel_link": "Israeli HQ ICL",
+  "category": "consumer/food/gaming/other",
+  "ats": "other",
+  "careers_url": "https://www.icl-group.com/careers/"
+ },
+ {
+  "name": "InMode",
+  "israel_link": "Israeli HQ (Yokneam)",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://www.inmodemd.com/careers/"
+ },
+ {
+  "name": "Intezer",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://intezer.com/careers/"
+ },
+ {
+  "name": "Irregular",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://irregular.com/careers"
+ },
+ {
+  "name": "Itamar Medical (ZOLL)",
+  "israel_link": "Israeli-founded (Caesarea), now ZOLL/Asahi Kasei",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://www.zoll.com/about-zoll/careers"
+ },
+ {
+  "name": "Jit",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.jit.io/careers"
+ },
+ {
+  "name": "Lasso Security",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.lasso.security/careers"
+ },
+ {
+  "name": "Lifeward (ReWalk)",
+  "israel_link": "Israeli-founded (Yokneam)",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://golifeward.com/careers/"
+ },
+ {
+  "name": "Lightbits Labs",
+  "israel_link": "Israeli-founded",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://www.lightbitslabs.com/careers/"
+ },
+ {
+  "name": "Lumenis",
+  "israel_link": "Israeli-founded (Yokneam)",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://www.lumenis.com/careers/"
+ },
+ {
+  "name": "Memcyco",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.memcyco.com/careers/"
+ },
+ {
+  "name": "Meta",
+  "israel_link": "Israel R&D (Tel Aviv)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "other",
+  "careers_url": "https://www.metacareers.com/jobs"
+ },
+ {
+  "name": "Microsoft",
+  "israel_link": "Large Israel R&D (Herzliya)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "other",
+  "careers_url": "https://jobs.careers.microsoft.com/"
+ },
+ {
+  "name": "Mitiga",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.mitiga.io/careers"
+ },
+ {
+  "name": "Mobileye",
+  "israel_link": "Israeli HQ (Jerusalem)",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://careers.mobileye.com/"
+ },
+ {
+  "name": "Morphisec",
+  "israel_link": "Israeli founders, Beer Sheva R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.morphisec.com/careers"
+ },
+ {
+  "name": "Nanox (incl. Nanox.AI / ex-Zebra Medical)",
+  "israel_link": "Israeli-founded, Zebra Medical acquired",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://www.nanox.vision/careers"
+ },
+ {
+  "name": "Navina",
+  "israel_link": "Israeli-founded AI primary care",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://www.navina.ai/careers"
+ },
+ {
+  "name": "Netafim USA (Orbia)",
+  "israel_link": "Israeli-origin drip irrigation",
+  "category": "consumer/food/gaming/other",
+  "ats": "other",
+  "careers_url": "https://www.netafim.com/en/careers/"
+ },
+ {
+  "name": "NeuReality",
+  "israel_link": "Israeli-founded",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://www.neureality.ai/careers"
+ },
+ {
+  "name": "NICE",
+  "israel_link": "Israeli HQ (Ra'anana)",
+  "category": "CX / contact-center software",
+  "ats": "other",
+  "careers_url": "https://www.nice.com/careers/apply"
+ },
+ {
+  "name": "Nova Ltd",
+  "israel_link": "Israeli HQ (Rehovot)",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://www.novami.com/careers/"
+ },
+ {
+  "name": "Novee Security",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://novee.security/careers"
+ },
+ {
+  "name": "Novocure",
+  "israel_link": "Israeli-origin tech, Haifa R&D",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://careers.novocure.com/go/United-States/8193800/"
+ },
+ {
+  "name": "Oracle",
+  "israel_link": "Israel R&D (Petah Tikva)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "other",
+  "careers_url": "https://careers.oracle.com/"
+ },
+ {
+  "name": "Ormat Technologies",
+  "israel_link": "Israeli-founded, Yavne ops",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://www.ormat.com/"
+ },
+ {
+  "name": "OX Security",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.ox.security/careers/"
+ },
+ {
+  "name": "Palo Alto Networks",
+  "israel_link": "Israeli founder (Nir Zuk), large Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://jobs.paloaltonetworks.com/"
+ },
+ {
+  "name": "Percepto",
+  "israel_link": "Israeli-founded drones",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://percepto.co/careers/"
+ },
+ {
+  "name": "Pillar Security",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.pillar.security/careers"
+ },
+ {
+  "name": "Plarium",
+  "israel_link": "Israeli-founded (Aristocrat)",
+  "category": "consumer/food/gaming/other",
+  "ats": "other",
+  "careers_url": "https://company.plarium.com/en/careers/"
+ },
+ {
+  "name": "Plasan North America",
+  "israel_link": "Israeli parent Plasan",
+  "category": "defense/gov/security",
+  "ats": "other",
+  "careers_url": "https://plasan.com/careers/"
+ },
+ {
+  "name": "Qualcomm",
+  "israel_link": "Israel R&D (Haifa; Autotalks acquired)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "other",
+  "careers_url": "https://careers.qualcomm.com/careers"
+ },
+ {
+  "name": "Radware",
+  "israel_link": "Israeli founders, Tel Aviv HQ (NASDAQ: RDWR)",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://radware.taleo.net/careersection/ex/joblist.ftl"
+ },
+ {
+  "name": "Rafael Systems Global Sustainment (RSGS)",
+  "israel_link": "US JV/affiliate of Rafael",
+  "category": "defense/gov/security",
+  "ats": "other",
+  "careers_url": "https://www.rafael-sgs.com/careers"
+ },
+ {
+  "name": "RedHill Biopharma",
+  "israel_link": "Israeli HQ (Tel Aviv)",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://www.redhillbio.com/careers"
+ },
+ {
+  "name": "REE Automotive",
+  "israel_link": "Israeli-founded",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://ree.auto/careers/"
+ },
+ {
+  "name": "Reflectiz",
+  "israel_link": "Israeli founders, Ramat Gan HQ",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.reflectiz.com/careers/"
+ },
+ {
+  "name": "Sabra Dipping Co.",
+  "israel_link": "Strauss Group (Israel) brand",
+  "category": "consumer/food/gaming/other",
+  "ats": "other",
+  "careers_url": "https://sabra.com/careers/"
+ },
+ {
+  "name": "SanDisk / Western Digital",
+  "israel_link": "Israel R&D (Kfar Saba; ex-M-Systems)",
+  "category": "US multinational w/ Israel R&D",
+  "ats": "other",
+  "careers_url": "https://jobs.sandisk.com/"
+ },
+ {
+  "name": "Sapiens International",
+  "israel_link": "Israeli insurance software (TASE/Nasdaq; Advent-owned)",
+  "category": "insurtech",
+  "ats": "other",
+  "careers_url": "https://careers.sapiens.com/"
+ },
+ {
+  "name": "Seemplicity",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://seemplicity.io/careers/"
+ },
+ {
+  "name": "Semperis",
+  "israel_link": "Israeli founders, Israel R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.semperis.com/careers/"
+ },
+ {
+  "name": "Sentra",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.sentra.io/careers"
+ },
+ {
+  "name": "Sepio",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://sepiocyber.com/careers/"
+ },
+ {
+  "name": "Sight Diagnostics",
+  "israel_link": "Israeli-founded (Jerusalem)",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://www.sightdx.com/careers"
+ },
+ {
+  "name": "SodaStream (PepsiCo)",
+  "israel_link": "Israeli-origin, owned by PepsiCo",
+  "category": "consumer/food/gaming/other",
+  "ats": "other",
+  "careers_url": "https://www.pepsicojobs.com/"
+ },
+ {
+  "name": "SolarEdge",
+  "israel_link": "Israeli HQ (Herzliya)",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://www.solaredge.com/us/careers"
+ },
+ {
+  "name": "Stratasys",
+  "israel_link": "Dual HQ Rehovot / Eden Prairie",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://www.stratasys.com/"
+ },
+ {
+  "name": "Taro Pharmaceutical (Sun Pharma)",
+  "israel_link": "Israeli-origin (Haifa)",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://www.taro.com/careers"
+ },
+ {
+  "name": "Tenzai",
+  "israel_link": "Israeli founders, Tel Aviv HQ",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://tenzai.com/careers"
+ },
+ {
+  "name": "Teva Pharmaceuticals",
+  "israel_link": "Israeli HQ (Tel Aviv)",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://careers.tevapharm.com/"
+ },
+ {
+  "name": "Token Security",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.token.security/careers"
+ },
+ {
+  "name": "Tower Semiconductor",
+  "israel_link": "Israeli HQ (Migdal HaEmek)",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://towersemi.com/"
+ },
+ {
+  "name": "Twenty-Six Defense (formerly Elbit America)",
+  "israel_link": "US subsidiary of Elbit Systems",
+  "category": "defense/gov/security",
+  "ats": "other",
+  "careers_url": "https://jobs.dayforcehcm.com/en-US/esa/ESACAREERSITE"
+ },
+ {
+  "name": "TytoCare",
+  "israel_link": "Israeli-founded (Netanya R&D)",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://www.tytocare.com/careers/"
+ },
+ {
+  "name": "Upstream Security",
+  "israel_link": "Israeli founders, Herzliya HQ (automotive cyber)",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://upstream.auto/careers/"
+ },
+ {
+  "name": "UroGen Pharma",
+  "israel_link": "Israeli-founded (Ra'anana R&D)",
+  "category": "health/medtech/biotech",
+  "ats": "other",
+  "careers_url": "https://www.urogen.com/careers/"
+ },
+ {
+  "name": "Valence Security",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.valencesecurity.com/careers"
+ },
+ {
+  "name": "Valens Semiconductor",
+  "israel_link": "Israeli HQ (Hod Hasharon)",
+  "category": "hardware/semis/mobility/climate",
+  "ats": "other",
+  "careers_url": "https://www.valens.com/careers"
+ },
+ {
+  "name": "Varonis",
+  "israel_link": "Israeli founders, Herzliya R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://careers.varonis.com/"
+ },
+ {
+  "name": "Zenity",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://www.zenity.io/careers"
+ },
+ {
+  "name": "Zero Networks",
+  "israel_link": "Israeli founders, Tel Aviv R&D",
+  "category": "cybersecurity",
+  "ats": "other",
+  "careers_url": "https://zeronetworks.com/careers"
+ }
+]
