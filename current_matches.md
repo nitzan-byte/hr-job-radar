@@ -11,13 +11,13 @@ _10 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **Senior HR Business Partner** — Insurify · Remote – US  
   portfolio of Viola Group · posted 2026-09-12 · [open posting](https://boards.greenhouse.io/insurify/jobs/6188472004)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
-  portfolio of lool ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
+  portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★ **People Analytics Analyst** — General Motors · Remote – US  
   GM Israel tech center (Herzliya) · posted Posted 30+ · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/People-Analytics-Analyst_JR-202610946)
 - ★★ **Principal Workday Analyst – Compensation & Talent Management and Performance** — Medtronic · Remote – US  
   Israel R&D via Mazor Robotics & Given Imaging · posted Posted 5 D · [open posting](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Workday-Analyst---Compensation---Talent_R74309-2)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
-  portfolio of lool ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
+  portfolio of Grove Ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
 - ★★ **Senior Technical Recruiter (Contract)** — SentinelOne · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-08-28 · [open posting](https://www.sentinelone.com/jobs/?gh_jid=7965797003)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
