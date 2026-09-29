@@ -358,17 +358,30 @@ def evaluate(jobs):
 
 
 # ---------------------------------------------------------------- notifications
-def push_ntfy(title, body, click=None, prio="high"):
+def push_ntfy(title, body, click=None, prio=4, url=None):
+    """Send via ntfy JSON API. Links in the body are tappable in the ntfy app;
+    `url` also adds an 'Open posting' button."""
     topic = os.getenv("NTFY_TOPIC")
     if not topic:
         return
-    h = {"Title": title.encode("utf-8"), "Priority": prio, "Tags": "briefcase"}
+    msg = {"topic": topic, "title": title, "message": body, "priority": prio, "tags": ["briefcase"]}
     if click:
-        h["Click"] = click
+        msg["click"] = click
+    if url:
+        msg["actions"] = [{"action": "view", "label": "Open posting", "url": url}]
     try:
-        requests.post(f"https://ntfy.sh/{topic}", data=body.encode("utf-8"), headers=h, timeout=15)
+        requests.post("https://ntfy.sh/", json=msg, timeout=15)
     except Exception as e:
         print("ntfy failed", e)
+
+
+def push_digest(subj, jobs):
+    """Several roles -> pushes of 5 roles each, every role with its link."""
+    chunks = [jobs[i:i + 5] for i in range(0, len(jobs), 5)]
+    for n, chunk in enumerate(chunks, 1):
+        body = "\n\n".join(f"{stars(m['score'])} {m['title']} — {m['company']}\n{m['url']}" for m in chunk)
+        t = subj + (f" ({n}/{len(chunks)})" if len(chunks) > 1 else "")
+        push_ntfy(t, body, prio=4 if n == 1 else 3)
 
 
 def gh_issue(title, body, labels):
@@ -460,14 +473,13 @@ def main():
     if new and os.getenv("DRY_RUN") != "1":
         if first_run or len(new) > 8:
             subj = f"HR Job Radar: {len(new)} open remote-US roles" + (" (initial scan)" if first_run else "")
-            push_ntfy(subj, "\n".join(f"{m['title']} — {m['company']}" for m in new[:12]),
-                      click=f"https://github.com/{os.getenv('GITHUB_REPOSITORY', '')}/blob/main/current_matches.md")
+            push_digest(subj, new)
             gh_issue(subj, "\n".join(line_md(m) for m in new), ["digest"])
             email(subj, "<ul>" + "".join(row_html(m) for m in new) + "</ul>")
         else:
             for m in new:
                 t = f"{stars(m['score'])} {m['title']} — {m['company']}"
-                push_ntfy(t, f"{m['where']} · {m.get('israel_link', '')}\nTap to open the posting.", click=m["url"])
+                push_ntfy(t, f"{m['where']} · {m.get('israel_link', '')}\n{m['url']}", click=m["url"], url=m["url"])
                 gh_issue(t, line_md(m) + f"\n\nWhy: {m['why']}\nLocation text: `{m['location']}`",
                          ["new-role", f"score-{m['score']}"])
             email(f"New HR role{'s' if len(new) > 1 else ''}: " + ", ".join(m["company"] for m in new),
