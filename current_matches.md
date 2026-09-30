@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_9 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_8 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -12,8 +12,6 @@ _9 matching roles open (list changes only when roles open or close; see the Acti
   portfolio of Viola Group · posted 2026-09-12 · [open posting](https://boards.greenhouse.io/insurify/jobs/6188472004)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
-- ★★ **Principal Workday Analyst – Compensation & Talent Management and Performance** — Medtronic · Remote – US  
-  Israel R&D via Mazor Robotics & Given Imaging · posted Posted 5 D · [open posting](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Workday-Analyst---Compensation---Talent_R74309-2)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
 - ★★ **Senior Technical Recruiter (Contract)** — SentinelOne · Remote – US  
