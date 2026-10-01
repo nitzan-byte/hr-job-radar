@@ -11,13 +11,13 @@ _10 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **Senior HR Business Partner** — Insurify · Remote – US  
   portfolio of Viola Group · posted 2026-09-12 · [open posting](https://boards.greenhouse.io/insurify/jobs/6188472004)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
-  portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
+  portfolio of lool ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
   Israeli-founded, Tel Aviv · posted 2026-10-01 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Senior Talent Acquisition Partner (Contract)** — Melio · Remote – US  
   Israeli-founded B2B payments (acquired by Xero 2025) · posted 2026-10-01 · [open posting](https://job-boards.greenhouse.io/melio/jobs/8002978003)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
-  portfolio of Grove Ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
+  portfolio of lool ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
 - ★★ **Senior Technical Recruiter (Contract)** — SentinelOne · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-08-28 · [open posting](https://www.sentinelone.com/jobs/?gh_jid=7965797003)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
