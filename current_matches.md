@@ -23,4 +23,4 @@ _10 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-01 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all#jobs)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-10-01 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast)
+  Israeli founders, Tel Aviv R&D · posted 2026-10-01 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast/all)
