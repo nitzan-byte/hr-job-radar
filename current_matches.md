@@ -23,6 +23,6 @@ _11 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Senior Technical Recruiter (Contract)** — SentinelOne · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-08-28 · [open posting](https://www.sentinelone.com/jobs/?gh_jid=7965797003)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-10-01 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all#jobs)
+  Israeli founders, Tel Aviv R&D · posted 2026-10-01 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-01 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast)
