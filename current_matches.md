@@ -1,11 +1,9 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_11 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_10 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
-- ★★★ **Senior HRBP Manager** — Armis (ServiceNow) · Remote – US  
-  Israeli founders, Tel Aviv R&D; acquired by ServiceNow · posted 2026-09-29 · [open posting](https://jobs.smartrecruiters.com/ServiceNow/744000152512870)
 - ★★★ **Senior HR Business Partner** — Insurify · Remote – US  
   portfolio of Viola Group · posted 2026-09-12 · [open posting](https://boards.greenhouse.io/insurify/jobs/6188472004)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
@@ -23,6 +21,6 @@ _11 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Senior Technical Recruiter (Contract)** — SentinelOne · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-08-28 · [open posting](https://www.sentinelone.com/jobs/?gh_jid=7965797003)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-10-03 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all#jobs)
+  Israeli founders, Tel Aviv R&D · posted 2026-10-05 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-05 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast)
