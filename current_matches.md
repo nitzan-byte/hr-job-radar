@@ -11,9 +11,9 @@ _10 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
   Israeli-founded, Tel Aviv · posted 2026-10-04 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Benefits Consultant, LOA/Disability - Remote US** — Cisco · Remote – US  
-  Israel R&D (Netanya/Tel Aviv) · posted Posted Tod · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
+  Israel R&D (Netanya/Tel Aviv) · posted Posted Yes · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
 - ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
-  Haifa/Tirat Carmel R&D · posted Posted 4 D · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Total-Rewards-Business-Partner_R4046904-1)
+  Haifa/Tirat Carmel R&D · posted Posted 5 D · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Total-Rewards-Business-Partner_R4046904-1)
 - ★★ **Senior Talent Acquisition Partner (Contract)** — Melio · Remote – US  
   Israeli-founded B2B payments (acquired by Xero 2025) · posted 2026-10-01 · [open posting](https://job-boards.greenhouse.io/melio/jobs/8002978003)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
