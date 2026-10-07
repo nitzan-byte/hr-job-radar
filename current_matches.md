@@ -23,6 +23,6 @@ _11 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
   portfolio of lool ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-10-06 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all#jobs)
+  Israeli founders, Tel Aviv R&D · posted 2026-10-07 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-07 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast)
