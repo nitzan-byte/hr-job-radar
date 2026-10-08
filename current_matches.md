@@ -4,8 +4,8 @@ _12 matching roles open (list changes only when roles open or close; see the Act
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
-- ★★★ **Senior HRBP Manager** — Armis (ServiceNow) · Remote – US  
-  Israeli founders, Tel Aviv R&D; acquired by ServiceNow · posted 2026-10-08 · [open posting](https://jobs.smartrecruiters.com/ServiceNow/744000154488679)
+- ★★★ **Senior HRBP Manager, Digital Technology** — Armis (ServiceNow) · Remote – US  
+  Israeli founders, Tel Aviv R&D; acquired by ServiceNow · posted 2026-10-08 · [open posting](https://jobs.smartrecruiters.com/ServiceNow/744000154504979)
 - ★★★ **Senior HR Business Partner** — Insurify · Remote – US  
   portfolio of Viola Group · posted 2026-09-12 · [open posting](https://boards.greenhouse.io/insurify/jobs/6188472004)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
