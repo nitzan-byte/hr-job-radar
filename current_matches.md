@@ -1,13 +1,11 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_11 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_10 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
 - ★★★ **Senior HR Business Partner** — Insurify · Remote – US  
   portfolio of Viola Group · posted 2026-09-12 · [open posting](https://boards.greenhouse.io/insurify/jobs/6188472004)
-- ★★★ **Senior Learning Designer, Leadership Development** — Lemonade · Remote – US  
-  Israeli-founded insurtech (Daniel Schreiber, Shai Wininger) · posted 2026-10-07 · [open posting](https://jobs.ashbyhq.com/Lemonade/a1eb0625-40de-4e1a-992f-8f5bdc1af1d7)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
