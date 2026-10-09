@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_11 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_10 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -12,8 +12,6 @@ _11 matching roles open (list changes only when roles open or close; see the Act
   portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
   Israeli-founded, Tel Aviv · posted 2026-10-04 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
-- ★★ **Benefits Consultant, LOA/Disability - Remote US** — Cisco · Remote – US  
-  Israel R&D (Netanya/Tel Aviv) · posted Posted 3 D · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
 - ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
   Haifa/Tirat Carmel R&D · posted Posted 7 D · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Total-Rewards-Business-Partner_R4046904-1)
 - ★★ **Senior Talent Acquisition Partner (Contract)** — Melio · Remote – US  
