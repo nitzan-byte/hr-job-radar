@@ -21,6 +21,6 @@ _10 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-10-09 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all)
+  Israeli founders, Tel Aviv R&D · posted 2026-10-09 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all?ref=trueup#brxe-rkmjgc)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-09 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast/all)
