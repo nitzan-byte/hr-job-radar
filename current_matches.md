@@ -9,7 +9,7 @@ _12 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **Senior HR Business Partner** — Insurify · Remote – US  
   portfolio of Viola Group · posted 2026-09-12 · [open posting](https://boards.greenhouse.io/insurify/jobs/6188472004)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
-  portfolio of lool ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
+  portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
   Israeli-founded, Tel Aviv · posted 2026-10-04 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
@@ -21,7 +21,7 @@ _12 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Senior Compensation Manager** — monday.com · Remote – US  
   Israeli-founded, Tel Aviv HQ · posted 2026-10-06 · [open posting](https://jobs.ashbyhq.com/monday.com/76c72596-b10c-463b-ae59-b585787b30ae)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
-  portfolio of lool ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
+  portfolio of Grove Ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-10 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all?ref=trueup&#brxe-rkmjgc)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
