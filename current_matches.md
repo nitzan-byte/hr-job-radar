@@ -25,6 +25,6 @@ _12 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-10 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all?ref=trueup&#brxe-rkmjgc)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-10-09 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast)
+  Israeli founders, Tel Aviv R&D · posted 2026-10-10 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast/all#jobs)
 - ★ **Principal Executive Search Recruiter (Contract) ** — Micron Technology · Remote – US  
   Israel R&D (Tel Aviv/Haifa) · posted Posted Yes · [open posting](https://micron.wd1.myworkdayjobs.com/External/job/California---Remote-E/Executive-Search-Recruiting-Sourcing-Specialist--Contract--_JR114197)
