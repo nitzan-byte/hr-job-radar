@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_9 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_12 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -12,6 +12,10 @@ _9 matching roles open (list changes only when roles open or close; see the Acti
   portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
   Israeli-founded, Tel Aviv · posted 2026-10-04 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
+- ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
+  Haifa/Tirat Carmel R&D · posted Posted 9 D · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Total-Rewards-Business-Partner_R4046904-1)
+- ★★ **People Analytics Enablement Leader** — General Motors · Remote – US  
+  GM Israel tech center (Herzliya) · posted Posted Yes · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---Michigan/People-Analytics-Enablement-Leader_JR-202622030-1)
 - ★★ **Senior Talent Acquisition Partner (Contract)** — Melio · Remote – US  
   Israeli-founded B2B payments (acquired by Xero 2025) · posted 2026-10-01 · [open posting](https://job-boards.greenhouse.io/melio/jobs/8002978003)
 - ★★ **Senior Compensation Manager** — monday.com · Remote – US  
@@ -22,3 +26,5 @@ _9 matching roles open (list changes only when roles open or close; see the Acti
   Israeli founders, Tel Aviv R&D · posted 2026-10-10 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all?ref=trueup&#brxe-rkmjgc)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-09 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast)
+- ★ **Principal Executive Search Recruiter (Contract) ** — Micron Technology · Remote – US  
+  Israel R&D (Tel Aviv/Haifa) · posted Posted Yes · [open posting](https://micron.wd1.myworkdayjobs.com/External/job/California---Remote-E/Executive-Search-Recruiting-Sourcing-Specialist--Contract--_JR114197)
