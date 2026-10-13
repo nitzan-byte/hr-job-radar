@@ -25,6 +25,6 @@ _12 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Talent Acquisition Partner** — ScaleOps · Remote – US  
   portfolio of NFX Guild · posted 2026-10-13 · [open posting](https://boards.greenhouse.io/scaleops/jobs/4920240101)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-10-13 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all?ref=trueup#jobs)
+  Israeli founders, Tel Aviv R&D · posted 2026-10-13 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all#jobs)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-13 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast/all#jobs)
