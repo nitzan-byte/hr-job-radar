@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_12 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_11 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -22,8 +22,6 @@ _12 matching roles open (list changes only when roles open or close; see the Act
   Israeli-founded, Tel Aviv HQ · posted 2026-10-06 · [open posting](https://jobs.ashbyhq.com/monday.com/76c72596-b10c-463b-ae59-b585787b30ae)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
-- ★★ **Talent Acquisition Partner** — ScaleOps · Remote – US  
-  portfolio of NFX Guild · posted 2026-10-13 · [open posting](https://boards.greenhouse.io/scaleops/jobs/4920240101)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-14 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
