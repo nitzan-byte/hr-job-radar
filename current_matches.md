@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_13 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_14 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -30,3 +30,5 @@ _13 matching roles open (list changes only when roles open or close; see the Act
   Israeli founders, Tel Aviv R&D · posted 2026-10-15 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all?ref=trueup)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-15 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast/all?ref=trueup#jobs)
+- ★★ **Senior Executive Assistant** — Viz.ai · Remote – US  
+  Israeli co-founders (Chris Mansi/David Golan); Tel Aviv R&D · posted 2026-10-15 · [open posting](https://jobs.ashbyhq.com/viz.ai/5766184a-8d22-425e-9954-eb65ad1917db)
