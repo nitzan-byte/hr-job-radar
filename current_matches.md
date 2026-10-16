@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_14 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_15 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -20,6 +20,8 @@ _14 matching roles open (list changes only when roles open or close; see the Act
   GM Israel tech center (Herzliya) · posted Posted Yes · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Senior-HR-Technology-Analyst---Hourly-Compensation_JR-202621535)
 - ★★ **People Analytics Enablement Leader** — General Motors · Remote – US  
   GM Israel tech center (Herzliya) · posted Posted 6 D · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---Michigan/People-Analytics-Enablement-Leader_JR-202622030-1)
+- ★★ **HR Shared Services Specialist - Benefits Operations (Tier II)** — Medtronic · Remote – US  
+  Israel R&D via Mazor Robotics & Given Imaging · posted Posted Tod · [open posting](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/HR-Shared-Services-Specialist_R71925-1)
 - ★★ **Senior Talent Acquisition Partner (Contract)** — Melio · Remote – US  
   Israeli-founded B2B payments (acquired by Xero 2025) · posted 2026-10-01 · [open posting](https://job-boards.greenhouse.io/melio/jobs/8002978003)
 - ★★ **Senior Compensation Manager** — monday.com · Remote – US  
