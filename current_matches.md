@@ -6,20 +6,20 @@ _16 matching roles open (list changes only when roles open or close; see the Act
 
 - ★★★ **Senior HRBP Manager, Digital Technology** — Armis (ServiceNow) · Remote – US  
   Israeli founders, Tel Aviv R&D; acquired by ServiceNow · posted 2026-10-08 · [open posting](https://jobs.smartrecruiters.com/ServiceNow/744000154504979)
+- ★★★ **Talent Management Consultant** — Cisco · Remote – US  
+  Israel R&D (Netanya/Tel Aviv) · posted Posted Tod · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Talent-Management-Consultant_2027003)
 - ★★★ **Employee Relations Investigator** — General Motors · Remote – US  
   GM Israel tech center (Herzliya) · posted Posted Yes · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Employee-Relations-Investigator_JR-202622006-1)
 - ★★★ **Senior HR Business Partner** — Insurify · Remote – US  
   portfolio of Viola Group · posted 2026-09-12 · [open posting](https://boards.greenhouse.io/insurify/jobs/6188472004)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
-  portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
+  portfolio of lool ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
   Israeli-founded, Tel Aviv · posted 2026-10-04 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
   Haifa/Tirat Carmel R&D · posted Posted 14  · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Total-Rewards-Business-Partner_R4046904-1)
 - ★★ **Senior HR Technology Analyst - Hourly Compensation** — General Motors · Remote – US  
   GM Israel tech center (Herzliya) · posted Posted Yes · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Senior-HR-Technology-Analyst---Hourly-Compensation_JR-202621535)
-- ★★ **People Analytics Enablement Leader** — General Motors · Remote – US  
-  GM Israel tech center (Herzliya) · posted Posted 6 D · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---Michigan/People-Analytics-Enablement-Leader_JR-202622030-1)
 - ★★ **HR Shared Services Specialist - Benefits Operations (Tier II)** — Medtronic · Remote – US  
   Israel R&D via Mazor Robotics & Given Imaging · posted Posted Tod · [open posting](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/HR-Shared-Services-Specialist_R71925-1)
 - ★★ **Senior Talent Acquisition Partner (Contract)** — Melio · Remote – US  
@@ -27,7 +27,7 @@ _16 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Senior Compensation Manager** — monday.com · Remote – US  
   Israeli-founded, Tel Aviv HQ · posted 2026-10-06 · [open posting](https://jobs.ashbyhq.com/monday.com/76c72596-b10c-463b-ae59-b585787b30ae)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
-  portfolio of Grove Ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
+  portfolio of lool ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-16 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
