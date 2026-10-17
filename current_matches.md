@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_11 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_12 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -12,6 +12,8 @@ _11 matching roles open (list changes only when roles open or close; see the Act
   portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
   Israeli-founded, Tel Aviv · posted 2026-10-04 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
+- ★★ **HR Shared Services Specialist - Benefits Operations (Tier II)** — Medtronic · Remote – US  
+  Israel R&D via Mazor Robotics & Given Imaging · posted Posted 2 D · [open posting](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/HR-Shared-Services-Specialist_R71925-1)
 - ★★ **Senior Talent Acquisition Partner (Contract)** — Melio · Remote – US  
   Israeli-founded B2B payments (acquired by Xero 2025) · posted 2026-10-01 · [open posting](https://job-boards.greenhouse.io/melio/jobs/8002978003)
 - ★★ **Senior Compensation Manager** — monday.com · Remote – US  
