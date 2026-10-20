@@ -1,11 +1,13 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_16 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_17 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
 - ★★★ **Senior HRBP Manager, Digital Technology** — Armis (ServiceNow) · Remote – US  
   Israeli founders, Tel Aviv R&D; acquired by ServiceNow · posted 2026-10-08 · [open posting](https://jobs.smartrecruiters.com/ServiceNow/744000154504979)
+- ★★★ **Staff People Business Partner** — EvenUp · Remote – US  
+  portfolio of NFX Guild · posted 2026-10-20 · [open posting](https://jobs.ashbyhq.com/evenup/486294e0-85e0-42ca-b932-76beb221de7c)
 - ★★★ **Employee Relations Investigator** — General Motors · Remote – US  
   GM Israel tech center (Herzliya) · posted Posted 6 D · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Employee-Relations-Investigator_JR-202622006-1)
 - ★★★ **Senior HR Business Partner** — Insurify · Remote – US  
