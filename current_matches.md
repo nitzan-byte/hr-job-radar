@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_17 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_15 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -8,8 +8,6 @@ _17 matching roles open (list changes only when roles open or close; see the Act
   Israeli founders, Tel Aviv R&D; acquired by ServiceNow · posted 2026-10-08 · [open posting](https://jobs.smartrecruiters.com/ServiceNow/744000154504979)
 - ★★★ **Staff People Business Partner** — EvenUp · Remote – US  
   portfolio of NFX Guild · posted 2026-10-20 · [open posting](https://jobs.ashbyhq.com/evenup/486294e0-85e0-42ca-b932-76beb221de7c)
-- ★★★ **Employee Relations Investigator** — General Motors · Remote – US  
-  GM Israel tech center (Herzliya) · posted Posted 6 D · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Employee-Relations-Investigator_JR-202622006-1)
 - ★★★ **Senior HR Business Partner** — Insurify · Remote – US  
   portfolio of Viola Group · posted 2026-09-12 · [open posting](https://boards.greenhouse.io/insurify/jobs/6188472004)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
@@ -20,8 +18,6 @@ _17 matching roles open (list changes only when roles open or close; see the Act
   Israel R&D (Netanya/Tel Aviv) · posted Posted Tod · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
 - ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
   Haifa/Tirat Carmel R&D · posted Posted 19  · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Total-Rewards-Business-Partner_R4046904-1)
-- ★★ **Senior HR Technology Analyst - Hourly Compensation** — General Motors · Remote – US  
-  GM Israel tech center (Herzliya) · posted Posted 6 D · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Senior-HR-Technology-Analyst---Hourly-Compensation_JR-202621535)
 - ★★ **HR Shared Services Specialist - Benefits Operations (Tier II)** — Medtronic · Remote – US  
   Israel R&D via Mazor Robotics & Given Imaging · posted Posted 5 D · [open posting](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/HR-Shared-Services-Specialist_R71925-1)
 - ★★ **Senior Talent Acquisition Partner (Contract)** — Melio · Remote – US  
