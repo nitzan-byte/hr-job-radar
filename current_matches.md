@@ -13,7 +13,7 @@ _15 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
-  Israeli-founded, Tel Aviv · posted 2026-10-22 · [open posting](https://careers.riverside.com/careers/onboarding-specialist?t=1792598790640)
+  Israeli-founded, Tel Aviv · posted 2026-10-22 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Benefits Consultant, LOA/Disability - Remote US** — Cisco · Remote – US  
   Israel R&D (Netanya/Tel Aviv) · posted Posted Yes · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
 - ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
