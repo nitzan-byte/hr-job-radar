@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_15 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_16 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -8,6 +8,8 @@ _15 matching roles open (list changes only when roles open or close; see the Act
   Israeli founders, Tel Aviv R&D; acquired by ServiceNow · posted 2026-10-08 · [open posting](https://jobs.smartrecruiters.com/ServiceNow/744000154504979)
 - ★★★ **Staff People Business Partner** — EvenUp · Remote – US  
   portfolio of NFX Guild · posted 2026-10-20 · [open posting](https://jobs.ashbyhq.com/evenup/486294e0-85e0-42ca-b932-76beb221de7c)
+- ★★★ **HR Operations Specialist (Norway)** — GE HealthCare · Remote (country not stated – check)  
+  Haifa/Tirat Carmel R&D · posted Posted Tod · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/HR-Operations-Specialist--Norway-_R4047889-1)
 - ★★★ **Senior HR Business Partner** — Insurify · Remote – US  
   portfolio of Viola Group · posted 2026-09-12 · [open posting](https://boards.greenhouse.io/insurify/jobs/6188472004)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
