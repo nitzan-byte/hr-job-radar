@@ -9,7 +9,7 @@ _15 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **Staff People Business Partner** — EvenUp · Remote – US  
   portfolio of NFX Guild · posted 2026-10-20 · [open posting](https://jobs.ashbyhq.com/evenup/486294e0-85e0-42ca-b932-76beb221de7c)
 - ★★★ **HR Operations Specialist (Norway)** — GE HealthCare · Remote (country not stated – check)  
-  Haifa/Tirat Carmel R&D · posted Posted Tod · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/HR-Operations-Specialist--Norway-_R4047889-1)
+  Haifa/Tirat Carmel R&D · posted Posted Yes · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/HR-Operations-Specialist--Norway-_R4047889-1)
 - ★★★ **Senior HR Business Partner** — Insurify · Remote – US  
   portfolio of Viola Group · posted 2026-09-12 · [open posting](https://boards.greenhouse.io/insurify/jobs/6188472004)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
@@ -17,9 +17,9 @@ _15 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
   Israeli-founded, Tel Aviv · posted 2026-10-23 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Benefits Consultant, LOA/Disability - Remote US** — Cisco · Remote – US  
-  Israel R&D (Netanya/Tel Aviv) · posted Posted 2 D · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
+  Israel R&D (Netanya/Tel Aviv) · posted Posted 3 D · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
 - ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
-  Haifa/Tirat Carmel R&D · posted Posted 21  · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Total-Rewards-Business-Partner_R4046904-1)
+  Haifa/Tirat Carmel R&D · posted Posted 22  · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Total-Rewards-Business-Partner_R4046904-1)
 - ★★ **Senior Talent Acquisition Partner (Contract)** — Melio · Remote – US  
   Israeli-founded B2B payments (acquired by Xero 2025) · posted 2026-10-01 · [open posting](https://job-boards.greenhouse.io/melio/jobs/8002978003)
 - ★★ **Senior Compensation Manager** — monday.com · Remote – US  
@@ -27,7 +27,7 @@ _15 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-10-22 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all#jobs)
+  Israeli founders, Tel Aviv R&D · posted 2026-10-23 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-22 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast/all#jobs)
 - ★★ **Senior Executive Assistant** — Viz.ai · Remote – US  
