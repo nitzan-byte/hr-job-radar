@@ -1,25 +1,19 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_14 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_11 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
 - ★★★ **Staff People Business Partner** — EvenUp · Remote – US  
   portfolio of NFX Guild · posted 2026-10-20 · [open posting](https://jobs.ashbyhq.com/evenup/486294e0-85e0-42ca-b932-76beb221de7c)
-- ★★★ **HR Operations Specialist (Norway)** — GE HealthCare · Remote (country not stated – check)  
-  Haifa/Tirat Carmel R&D · posted Posted Yes · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/HR-Operations-Specialist--Norway-_R4047889-1)
 - ★★★ **Senior HR Business Partner** — Insurify · Remote – US  
   portfolio of Viola Group · posted 2026-09-12 · [open posting](https://boards.greenhouse.io/insurify/jobs/6188472004)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
   Israeli-founded, Tel Aviv · posted 2026-10-23 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
-- ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
-  Haifa/Tirat Carmel R&D · posted Posted 22  · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Total-Rewards-Business-Partner_R4046904-1)
 - ★★ **Senior Talent Acquisition Partner (Contract)** — Melio · Remote – US  
   Israeli-founded B2B payments (acquired by Xero 2025) · posted 2026-10-01 · [open posting](https://job-boards.greenhouse.io/melio/jobs/8002978003)
-- ★★ **Talent Acquisition - Contract Recruiter** — Micron Technology · Remote – US  
-  Israel R&D (Tel Aviv/Haifa) · posted Posted Tod · [open posting](https://micron.wd1.myworkdayjobs.com/External/job/California---Remote-D/Talent-Acquisition---Contract-Recruiter_JR111460)
 - ★★ **Senior Compensation Manager** — monday.com · Remote – US  
   Israeli-founded, Tel Aviv HQ · posted 2026-10-06 · [open posting](https://jobs.ashbyhq.com/monday.com/76c72596-b10c-463b-ae59-b585787b30ae)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
