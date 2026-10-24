@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_11 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_12 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -14,6 +14,8 @@ _11 matching roles open (list changes only when roles open or close; see the Act
   Israeli-founded, Tel Aviv · posted 2026-10-23 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Senior Talent Acquisition Partner (Contract)** — Melio · Remote – US  
   Israeli-founded B2B payments (acquired by Xero 2025) · posted 2026-10-01 · [open posting](https://job-boards.greenhouse.io/melio/jobs/8002978003)
+- ★★ **Talent Acquisition - Contract Recruiter** — Micron Technology · Remote – US  
+  Israel R&D (Tel Aviv/Haifa) · posted Posted Yes · [open posting](https://micron.wd1.myworkdayjobs.com/External/job/California---Remote-D/Talent-Acquisition---Contract-Recruiter_JR111460)
 - ★★ **Senior Compensation Manager** — monday.com · Remote – US  
   Israeli-founded, Tel Aviv HQ · posted 2026-10-06 · [open posting](https://jobs.ashbyhq.com/monday.com/76c72596-b10c-463b-ae59-b585787b30ae)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
