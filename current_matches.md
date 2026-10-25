@@ -13,7 +13,7 @@ _13 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
-  Israeli-founded, Tel Aviv · posted 2026-10-25 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
+  Israeli-founded, Tel Aviv · posted 2026-10-25 · [open posting](https://careers.riverside.com/careers/onboarding-specialist?t=1792598790640)
 - ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
   Haifa/Tirat Carmel R&D · posted Posted 24  · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Total-Rewards-Business-Partner_R4046904-1)
 - ★★ **Talent Acquisition - Contract Recruiter** — Micron Technology · Remote – US  
