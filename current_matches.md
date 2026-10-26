@@ -13,7 +13,7 @@ _13 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
-  Israeli-founded, Tel Aviv · posted 2026-10-26 · [open posting](https://careers.riverside.com/careers/onboarding-specialist?t=1792598790640)
+  Israeli-founded, Tel Aviv · posted 2026-10-26 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
   Haifa/Tirat Carmel R&D · posted Posted 25  · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Total-Rewards-Business-Partner_R4046904-1)
 - ★★ **Talent Acquisition - Contract Recruiter** — Micron Technology · Remote – US  
@@ -25,7 +25,7 @@ _13 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-26 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-10-26 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast/all)
+  Israeli founders, Tel Aviv R&D · posted 2026-10-26 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast/all#jobs)
 - ★★ **Senior Executive Assistant** — Viz.ai · Remote – US  
   Israeli co-founders (Chris Mansi/David Golan); Tel Aviv R&D · posted 2026-10-15 · [open posting](https://jobs.ashbyhq.com/viz.ai/5766184a-8d22-425e-9954-eb65ad1917db)
 - ★ **Global Talent Acquisition Director** — Noma Security · Remote – US  
