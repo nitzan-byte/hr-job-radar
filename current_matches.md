@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_13 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_15 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -10,6 +10,10 @@ _13 matching roles open (list changes only when roles open or close; see the Act
   Haifa/Tirat Carmel R&D · posted Posted 5 D · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/HR-Operations-Specialist--Norway-_R4047889-1)
 - ★★★ **Senior HR Business Partner** — Insurify · Remote – US  
   portfolio of Viola Group · posted 2026-09-12 · [open posting](https://boards.greenhouse.io/insurify/jobs/6188472004)
+- ★★★ **Senior HR Business Partner (HRBP)** — Motorola Solutions · Remote – US  
+  Israel R&D (Airport City) · posted Posted Tod · [open posting](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Senior-HR-Business-Partner--HRBP-_R69954)
+- ★★★ **HR Business Partner US** — Noma Security · Remote – US  
+  Israeli founders, Tel Aviv R&D · posted 2026-10-27 · [open posting](https://noma.security/careers/)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
@@ -29,4 +33,4 @@ _13 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Senior Executive Assistant** — Viz.ai · Remote – US  
   Israeli co-founders (Chris Mansi/David Golan); Tel Aviv R&D · posted 2026-10-15 · [open posting](https://jobs.ashbyhq.com/viz.ai/5766184a-8d22-425e-9954-eb65ad1917db)
 - ★ **Global Talent Acquisition Director** — Noma Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-10-19 · [open posting](https://noma.security/careers/)
+  Israeli founders, Tel Aviv R&D · posted 2026-10-27 · [open posting](https://noma.security/careers/)
