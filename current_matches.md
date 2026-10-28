@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_15 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_16 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -13,11 +13,13 @@ _15 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **Senior HR Business Partner (HRBP)** — Motorola Solutions · Remote – US  
   Israel R&D (Airport City) · posted Posted Yes · [open posting](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Senior-HR-Business-Partner--HRBP-_R69954)
 - ★★★ **HR Business Partner** — Noma Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-10-27 · [open posting](https://noma.security/careers/)
+  Israeli founders, Tel Aviv R&D · posted 2026-10-28 · [open posting](https://noma.security/careers/)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
   Israeli-founded, Tel Aviv · posted 2026-10-26 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
+- ★★ **Benefits Consultant, LOA/Disability - Remote US** — Cisco · Remote – US  
+  Israel R&D (Netanya/Tel Aviv) · posted Posted Tod · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
 - ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
   Haifa/Tirat Carmel R&D · posted Posted 27  · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Total-Rewards-Business-Partner_R4046904-1)
 - ★★ **Talent Acquisition - Contract Recruiter** — Micron Technology · Remote – US  
@@ -33,4 +35,4 @@ _15 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Senior Executive Assistant** — Viz.ai · Remote – US  
   Israeli co-founders (Chris Mansi/David Golan); Tel Aviv R&D · posted 2026-10-15 · [open posting](https://jobs.ashbyhq.com/viz.ai/5766184a-8d22-425e-9954-eb65ad1917db)
 - ★ **Global Talent Acquisition Director** — Noma Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-10-27 · [open posting](https://noma.security/careers/)
+  Israeli founders, Tel Aviv R&D · posted 2026-10-28 · [open posting](https://noma.security/careers/)
