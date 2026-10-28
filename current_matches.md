@@ -15,9 +15,9 @@ _16 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **HR Business Partner** — Noma Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-28 · [open posting](https://noma.security/careers/)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
-  portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
+  portfolio of lool ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
-  Israeli-founded, Tel Aviv · posted 2026-10-26 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
+  Israeli-founded, Tel Aviv · posted 2026-10-28 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Benefits Consultant, LOA/Disability - Remote US** — Cisco · Remote – US  
   Israel R&D (Netanya/Tel Aviv) · posted Posted Tod · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
 - ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
@@ -27,11 +27,11 @@ _16 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Senior Compensation Manager** — monday.com · Remote – US  
   Israeli-founded, Tel Aviv HQ · posted 2026-10-06 · [open posting](https://jobs.ashbyhq.com/monday.com/76c72596-b10c-463b-ae59-b585787b30ae)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
-  portfolio of Grove Ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
+  portfolio of lool ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-10-28 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all)
+  Israeli founders, Tel Aviv R&D · posted 2026-10-28 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all#jobs)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-10-28 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast/all)
+  Israeli founders, Tel Aviv R&D · posted 2026-10-28 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast/all#jobs)
 - ★★ **Senior Executive Assistant** — Viz.ai · Remote – US  
   Israeli co-founders (Chris Mansi/David Golan); Tel Aviv R&D · posted 2026-10-15 · [open posting](https://jobs.ashbyhq.com/viz.ai/5766184a-8d22-425e-9954-eb65ad1917db)
 - ★ **Global Talent Acquisition Director** — Noma Security · Remote – US  
