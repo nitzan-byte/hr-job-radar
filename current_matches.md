@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_15 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_16 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -18,6 +18,8 @@ _15 matching roles open (list changes only when roles open or close; see the Act
   Israeli-founded, Tel Aviv · posted 2026-10-29 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Benefits Consultant, LOA/Disability - Remote US** — Cisco · Remote – US  
   Israel R&D (Netanya/Tel Aviv) · posted Posted Yes · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
+- ★★ **Talent Acquisition (Global Team)** — Cyera · Remote – US  
+  Israeli founders, Tel Aviv R&D · posted 2026-10-29 · [open posting](https://www.comeet.com/jobs/cyera/17.008/talent-acquisition-global-team/FE.B4B)
 - ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
   Haifa/Tirat Carmel R&D · posted Posted 28  · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Total-Rewards-Business-Partner_R4046904-1)
 - ★★ **Talent Acquisition - Contract Recruiter** — Micron Technology · Remote – US  
