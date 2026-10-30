@@ -1,19 +1,17 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_14 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_13 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
 - ★★★ **Staff People Business Partner** — EvenUp · Remote – US  
   portfolio of NFX Guild · posted 2026-10-20 · [open posting](https://jobs.ashbyhq.com/evenup/486294e0-85e0-42ca-b932-76beb221de7c)
-- ★★★ **HR Operations Specialist (Norway)** — GE HealthCare · Remote (country not stated – check)  
-  Haifa/Tirat Carmel R&D · posted Posted 8 D · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/HR-Operations-Specialist--Norway-_R4047889-1)
 - ★★★ **Senior HR Business Partner (HRBP)** — Motorola Solutions · Remote – US  
   Israel R&D (Airport City) · posted Posted 3 D · [open posting](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Senior-HR-Business-Partner--HRBP-_R69954)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
   portfolio of lool ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
-  Israeli-founded, Tel Aviv · posted 2026-10-29 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
+  Israeli-founded, Tel Aviv · posted 2026-10-30 · [open posting](https://careers.riverside.com/careers/onboarding-specialist?t=1793372680164)
 - ★★ **Benefits Consultant, LOA/Disability - Remote US** — Cisco · Remote – US  
   Israel R&D (Netanya/Tel Aviv) · posted Posted 2 D · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
 - ★★ **Talent Acquisition (Global Team)** — Cyera · Remote – US  
