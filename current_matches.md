@@ -1,9 +1,11 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_11 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_12 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
+- ★★★ **HR Operations Specialist (Norway)** — GE HealthCare · Remote (country not stated – check)  
+  Haifa/Tirat Carmel R&D · posted Posted 12  · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/HR-Operations-Specialist--Norway-_R4047889-1)
 - ★★★ **Senior HR Business Partner (HRBP)** — Motorola Solutions · Remote – US  
   Israel R&D (Airport City) · posted Posted 7 D · [open posting](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Senior-HR-Business-Partner--HRBP-_R69954)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
