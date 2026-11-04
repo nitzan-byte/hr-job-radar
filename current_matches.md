@@ -5,15 +5,15 @@ _12 matching roles open (list changes only when roles open or close; see the Act
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
 - ★★★ **HR Operations Specialist (Norway)** — GE HealthCare · Remote (country not stated – check)  
-  Haifa/Tirat Carmel R&D · posted Posted 12  · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/HR-Operations-Specialist--Norway-_R4047889-1)
+  Haifa/Tirat Carmel R&D · posted Posted 13  · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/HR-Operations-Specialist--Norway-_R4047889-1)
 - ★★★ **Senior HR Business Partner (HRBP)** — Motorola Solutions · Remote – US  
-  Israel R&D (Airport City) · posted Posted 7 D · [open posting](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Senior-HR-Business-Partner--HRBP-_R69954)
+  Israel R&D (Airport City) · posted Posted 8 D · [open posting](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Senior-HR-Business-Partner--HRBP-_R69954)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
   Israeli-founded, Tel Aviv · posted 2026-11-02 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Benefits Consultant, LOA/Disability - Remote US** — Cisco · Remote – US  
-  Israel R&D (Netanya/Tel Aviv) · posted Posted 6 D · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
+  Israel R&D (Netanya/Tel Aviv) · posted Posted 7 D · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
 - ★★ **Talent Acquisition (Global Team)** — Cyera · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-29 · [open posting](https://www.comeet.com/jobs/cyera/17.008/talent-acquisition-global-team/FE.B4B)
 - ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
