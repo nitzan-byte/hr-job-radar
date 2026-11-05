@@ -1,9 +1,11 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_14 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_15 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
+- ★★★ **GTM Learning Experience Designer** — Claroty · Remote – US  
+  Israeli founders, Tel Aviv R&D · posted 2026-11-05 · [open posting](https://claroty.com/open-positions/8D.47C)
 - ★★★ **Staff People Business Partner, GTM** — EvenUp · Remote (country not stated – check)  
   portfolio of NFX Guild · posted 2026-10-20 · [open posting](https://jobs.ashbyhq.com/evenup/486294e0-85e0-42ca-b932-76beb221de7c)
 - ★★★ **Senior HR Business Partner (HRBP)** — Motorola Solutions · Remote – US  
