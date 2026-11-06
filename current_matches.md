@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_15 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_16 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -20,6 +20,8 @@ _15 matching roles open (list changes only when roles open or close; see the Act
   Israeli founders, Tel Aviv R&D · posted 2026-10-29 · [open posting](https://www.comeet.com/jobs/cyera/17.008/talent-acquisition-global-team/FE.B4B)
 - ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
   Haifa/Tirat Carmel R&D · posted Posted 30+ · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Total-Rewards-Business-Partner_R4046904-1)
+- ★★ **Senior HR Technology Analyst - Hourly Compensation** — General Motors · Remote – US  
+  GM Israel tech center (Herzliya) · posted Posted Tod · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Senior-HR-Technology-Analyst---Hourly-Compensation_JR-202621535)
 - ★★ **HR Shared Services Specialist - Benefits Operations (Tier II)** — Medtronic · Remote – US  
   Israel R&D via Mazor Robotics & Given Imaging · posted Posted Yes · [open posting](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/HR-Shared-Services-Specialist_R71925-1)
 - ★★ **Senior Compensation Manager** — monday.com · Remote – US  
@@ -31,6 +33,6 @@ _15 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-11-05 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-11-06 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast/all#brxe-rkmjgc)
+  Israeli founders, Tel Aviv R&D · posted 2026-11-06 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast/all)
 - ★★ **Senior Executive Assistant** — Viz.ai · Remote – US  
   Israeli co-founders (Chris Mansi/David Golan); Tel Aviv R&D · posted 2026-10-15 · [open posting](https://jobs.ashbyhq.com/Viz.ai/5766184a-8d22-425e-9954-eb65ad1917db)
