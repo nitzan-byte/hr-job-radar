@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_16 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_17 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -26,6 +26,8 @@ _16 matching roles open (list changes only when roles open or close; see the Act
   Israel R&D via Mazor Robotics & Given Imaging · posted Posted 3 D · [open posting](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/HR-Shared-Services-Specialist_R71925-1)
 - ★★ **Senior Compensation Manager** — monday.com · Remote – US  
   Israeli-founded, Tel Aviv HQ · posted 2026-10-06 · [open posting](https://jobs.ashbyhq.com/monday.com/76c72596-b10c-463b-ae59-b585787b30ae)
+- ★★ **Talent Acquisition Partner** — Nayax · Remote – US  
+  Israeli cashless payments (Nasdaq/TASE) · posted 2026-11-08 · [open posting](https://www.nayax.com/careers/hr/talent-acquisition-partner/)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
 - ★★ **Talent Acquisition Associate** — Upwind Security · Remote – US  
