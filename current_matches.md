@@ -6,7 +6,7 @@ _17 matching roles open (list changes only when roles open or close; see the Act
 
 - ★★★ **GTM Learning Experience Designer** — Claroty · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-11-08 · [open posting](https://claroty.com/open-positions/8D.47C)
-- ★★★ **Staff People Business Partner, GTM** — EvenUp · Remote (country not stated – check)  
+- ★★★ **Staff People Business Partner, GTM** — EvenUp · Remote – US  
   portfolio of NFX Guild · posted 2026-10-20 · [open posting](https://jobs.ashbyhq.com/evenup/486294e0-85e0-42ca-b932-76beb221de7c)
 - ★★★ **Senior HR Business Partner (HRBP)** — Motorola Solutions · Remote – US  
   Israel R&D (Airport City) · posted Posted 13  · [open posting](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Senior-HR-Business-Partner--HRBP-_R69954)
@@ -35,6 +35,6 @@ _17 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-11-05 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-11-06 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast/all)
+  Israeli founders, Tel Aviv R&D · posted 2026-11-09 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast/all)
 - ★★ **Senior Executive Assistant** — Viz.ai · Remote – US  
   Israeli co-founders (Chris Mansi/David Golan); Tel Aviv R&D · posted 2026-10-15 · [open posting](https://jobs.ashbyhq.com/Viz.ai/5766184a-8d22-425e-9954-eb65ad1917db)
