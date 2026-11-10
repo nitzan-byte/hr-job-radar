@@ -13,7 +13,7 @@ _17 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
-  Israeli-founded, Tel Aviv · posted 2026-11-02 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
+  Israeli-founded, Tel Aviv · posted 2026-11-09 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Benefits Consultant, LOA/Disability - Remote US** — Cisco · Remote – US  
   Israel R&D (Netanya/Tel Aviv) · posted Posted 12  · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
 - ★★ **Talent Acquisition (Global Team)** — Cyera · Remote – US  
@@ -27,7 +27,7 @@ _17 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Senior Compensation Manager** — monday.com · Remote – US  
   Israeli-founded, Tel Aviv HQ · posted 2026-10-06 · [open posting](https://jobs.ashbyhq.com/monday.com/76c72596-b10c-463b-ae59-b585787b30ae)
 - ★★ **Talent Acquisition Partner** — Nayax · Remote – US  
-  Israeli cashless payments (Nasdaq/TASE) · posted 2026-11-09 · [open posting](https://www.nayax.com/careers/hr/talent-acquisition-partner/)
+  Israeli cashless payments (Nasdaq/TASE) · posted 2026-11-10 · [open posting](https://www.nayax.com/careers/hr/talent-acquisition-partner/?_gl=1*bmvoue*_up*MQ..*_gs*MQ..&gclid=EAIaIQobChMIl8jV75v8lwMVdofCCB2RUhUCEAAYASAAEgIUFPD_BwE&gbraid=0AAAAADNl3VCmza7EZ5SbJsiED-LPv2oGz)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
 - ★★ **Talent Acquisition Associate** — Upwind Security · Remote – US  
