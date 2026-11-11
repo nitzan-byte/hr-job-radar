@@ -11,7 +11,7 @@ _19 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **Senior HR Business Partner (HRBP)** — Motorola Solutions · Remote – US  
   Israel R&D (Airport City) · posted Posted 15  · [open posting](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Senior-HR-Business-Partner--HRBP-_R69954)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
-  portfolio of lool ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
+  portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
   Israeli-founded, Tel Aviv · posted 2026-11-09 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Benefits Consultant, LOA/Disability - Remote US** — Cisco · Remote – US  
@@ -31,7 +31,7 @@ _19 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Talent Acquisition Partner** — Noma Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-11-10 · [open posting](https://noma.security/careers/)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
-  portfolio of lool ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
+  portfolio of Grove Ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
 - ★★ **Senior Recruiter, AI Labs** — Salesforce · Remote – US  
   Israel R&D (Tel Aviv) · posted Posted Tod · [open posting](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/South-Carolina---Remote/Senior-Recruiter--AI-Labs_JR367291-1)
 - ★★ **Talent Acquisition Associate** — Upwind Security · Remote – US  
