@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_20 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_19 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -9,25 +9,23 @@ _20 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **Staff People Business Partner, GTM** — EvenUp · Remote – US  
   portfolio of NFX Guild · posted 2026-10-20 · [open posting](https://jobs.ashbyhq.com/evenup/486294e0-85e0-42ca-b932-76beb221de7c)
 - ★★★ **HR Operations Specialist (Norway)** — GE HealthCare · Remote (country not stated – check)  
-  Haifa/Tirat Carmel R&D · posted Posted Tod · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/HR-Operations-Specialist--Norway-_R4047889-1)
+  Haifa/Tirat Carmel R&D · posted Posted Yes · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/HR-Operations-Specialist--Norway-_R4047889-1)
 - ★★★ **Senior HR Business Partner (HRBP)** — Motorola Solutions · Remote – US  
-  Israel R&D (Airport City) · posted Posted 16  · [open posting](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Senior-HR-Business-Partner--HRBP-_R69954)
+  Israel R&D (Airport City) · posted Posted 17  · [open posting](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Senior-HR-Business-Partner--HRBP-_R69954)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
   Israeli-founded, Tel Aviv · posted 2026-11-12 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★★ **Learning Experience Design Senior Analyst** — Salesforce · Remote – US  
-  Israel R&D (Tel Aviv) · posted Posted Tod · [open posting](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Houston-Metro---Remote/Learning-Experience-Design-Senior-Analyst_JR367256)
+  Israel R&D (Tel Aviv) · posted Posted Yes · [open posting](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Houston-Metro---Remote/Learning-Experience-Design-Senior-Analyst_JR367256)
 - ★★ **Benefits Consultant, LOA/Disability - Remote US** — Cisco · Remote – US  
-  Israel R&D (Netanya/Tel Aviv) · posted Posted 15  · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
+  Israel R&D (Netanya/Tel Aviv) · posted Posted 16  · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
 - ★★ **Talent Acquisition (Global Team)** — Cyera · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-29 · [open posting](https://www.comeet.com/jobs/cyera/17.008/talent-acquisition-global-team/FE.B4B)
 - ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
   Haifa/Tirat Carmel R&D · posted Posted 30+ · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Total-Rewards-Business-Partner_R4046904-1)
 - ★★ **Total Rewards Portal Sr. Analyst** — General Motors · Remote – US  
-  GM Israel tech center (Herzliya) · posted Posted 2 D · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Total-Rewards-Portal-Sr-Analyst_JR-202623483-1)
-- ★★ **Senior HR Technology Analyst - Hourly Compensation** — General Motors · Remote – US  
-  GM Israel tech center (Herzliya) · posted Posted 6 D · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Senior-HR-Technology-Analyst---Hourly-Compensation_JR-202621535)
+  GM Israel tech center (Herzliya) · posted Posted 3 D · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Total-Rewards-Portal-Sr-Analyst_JR-202623483-1)
 - ★★ **Senior Compensation Manager** — monday.com · Remote – US  
   Israeli-founded, Tel Aviv HQ · posted 2026-10-06 · [open posting](https://jobs.ashbyhq.com/monday.com/76c72596-b10c-463b-ae59-b585787b30ae)
 - ★★ **Talent Acquisition Partner** — Noma Security · Remote – US  
@@ -35,11 +33,11 @@ _20 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
 - ★★ **Senior Recruiter, AI Labs** — Salesforce · Remote – US  
-  Israel R&D (Tel Aviv) · posted Posted Yes · [open posting](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/South-Carolina---Remote/Senior-Recruiter--AI-Labs_JR367291-1)
+  Israel R&D (Tel Aviv) · posted Posted 2 D · [open posting](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/South-Carolina---Remote/Senior-Recruiter--AI-Labs_JR367291-1)
 - ★★ **Talent Acquisition Associate** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-11-12 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/BC.47E/talent-acquisition-associate/all)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-11-12 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all)
+  Israeli founders, Tel Aviv R&D · posted 2026-11-13 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all)
 - ★★ **Talent Sourcing Partner - East Coast** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-11-10 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/26.27F/talent-sourcing-partner-east-coast/all)
 - ★★ **Senior Executive Assistant** — Viz.ai · Remote – US  
