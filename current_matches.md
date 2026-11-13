@@ -1,11 +1,11 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_19 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_17 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
 - ★★★ **GTM Learning Experience Designer** — Claroty · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-11-10 · [open posting](https://claroty.com/open-positions/8D.47C)
+  Israeli founders, Tel Aviv R&D · posted 2026-11-13 · [open posting](https://claroty.com/open-positions/8D.47C)
 - ★★★ **Staff People Business Partner, GTM** — EvenUp · Remote – US  
   portfolio of NFX Guild · posted 2026-10-20 · [open posting](https://jobs.ashbyhq.com/evenup/486294e0-85e0-42ca-b932-76beb221de7c)
 - ★★★ **HR Operations Specialist (Norway)** — GE HealthCare · Remote (country not stated – check)  
@@ -16,8 +16,6 @@ _19 matching roles open (list changes only when roles open or close; see the Act
   portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
   Israeli-founded, Tel Aviv · posted 2026-11-12 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
-- ★★★ **Learning Experience Design Senior Analyst** — Salesforce · Remote – US  
-  Israel R&D (Tel Aviv) · posted Posted Yes · [open posting](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Houston-Metro---Remote/Learning-Experience-Design-Senior-Analyst_JR367256)
 - ★★ **Benefits Consultant, LOA/Disability - Remote US** — Cisco · Remote – US  
   Israel R&D (Netanya/Tel Aviv) · posted Posted 16  · [open posting](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Benefits-Consultant---Remote-US_2020711-1)
 - ★★ **Talent Acquisition (Global Team)** — Cyera · Remote – US  
@@ -32,8 +30,6 @@ _19 matching roles open (list changes only when roles open or close; see the Act
   Israeli founders, Tel Aviv R&D · posted 2026-11-10 · [open posting](https://noma.security/careers/)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
-- ★★ **Senior Recruiter, AI Labs** — Salesforce · Remote – US  
-  Israel R&D (Tel Aviv) · posted Posted 2 D · [open posting](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/South-Carolina---Remote/Senior-Recruiter--AI-Labs_JR367291-1)
 - ★★ **Talent Acquisition Associate** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-11-12 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/BC.47E/talent-acquisition-associate/all)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
