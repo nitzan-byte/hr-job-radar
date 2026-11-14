@@ -5,11 +5,11 @@ _12 matching roles open (list changes only when roles open or close; see the Act
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
 - ★★★ **GTM Learning Experience Designer** — Claroty · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-11-13 · [open posting](https://claroty.com/open-positions/8D.47C)
+  Israeli founders, Tel Aviv R&D · posted 2026-11-14 · [open posting](https://claroty.com/open-positions/8D.47C)
 - ★★★ **Staff People Business Partner, GTM** — EvenUp · Remote – US  
   portfolio of NFX Guild · posted 2026-10-20 · [open posting](https://jobs.ashbyhq.com/evenup/486294e0-85e0-42ca-b932-76beb221de7c)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
-  portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
+  portfolio of lool ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
   Israeli-founded, Tel Aviv · posted 2026-11-12 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Talent Acquisition (Global Team)** — Cyera · Remote – US  
@@ -19,7 +19,7 @@ _12 matching roles open (list changes only when roles open or close; see the Act
 - ★★ **Talent Acquisition Partner** — Noma Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-11-10 · [open posting](https://noma.security/careers/)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
-  portfolio of Grove Ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
+  portfolio of lool ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
 - ★★ **Talent Acquisition Associate** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-11-12 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/BC.47E/talent-acquisition-associate/all)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
