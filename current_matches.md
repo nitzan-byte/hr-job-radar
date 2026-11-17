@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_10 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_9 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -9,7 +9,7 @@ _10 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
   portfolio of lool ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
-  Israeli-founded, Tel Aviv · posted 2026-11-12 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
+  Israeli-founded, Tel Aviv · posted 2026-11-17 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Talent Acquisition (Global Team)** — Cyera · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-29 · [open posting](https://www.comeet.com/jobs/cyera/17.008/talent-acquisition-global-team/FE.B4B)
 - ★★ **Senior Compensation Manager** — monday.com · Remote – US  
@@ -18,8 +18,6 @@ _10 matching roles open (list changes only when roles open or close; see the Act
   Israeli founders, Tel Aviv R&D · posted 2026-11-10 · [open posting](https://noma.security/careers/)
 - ★★ **Talent Acquisition Partner - US** — NoTraffic · Remote – US  
   portfolio of lool ventures · posted 2025-12-22 · [open posting](https://www.notraffic.com/careers/co/hr/4A.262/talent-acquisition-partner-us/all)
-- ★★ **Talent Acquisition Associate** — Upwind Security · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-11-17 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/BC.47E/talent-acquisition-associate/all)
 - ★★ **Talent Acquisition Partner** — Upwind Security · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-11-16 · [open posting](https://www.upwind.io/careers/co/east-coast-remote/0D.177/talent-acquisition-partner/all)
 - ★★ **Senior Executive Assistant** — Viz.ai · Remote – US  
