@@ -1,9 +1,11 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_9 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_10 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
+- ★★★ **International People Ops Analyst, Benefits** — CardinalOps Ltd. · Remote – US  
+  portfolio of Viola Group · posted 2026-11-18 · [open posting](https://cribl.io/job-detail/?gh_jid=6261584004)
 - ★★★ **Staff People Business Partner, GTM** — EvenUp · Remote – US  
   portfolio of NFX Guild · posted 2026-10-20 · [open posting](https://jobs.ashbyhq.com/evenup/486294e0-85e0-42ca-b932-76beb221de7c)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
