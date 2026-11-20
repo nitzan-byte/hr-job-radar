@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_11 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_12 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -14,6 +14,8 @@ _11 matching roles open (list changes only when roles open or close; see the Act
   Israeli-founded, Tel Aviv · posted 2026-11-17 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Talent Acquisition (Global Team)** — Cyera · Remote – US  
   Israeli founders, Tel Aviv R&D · posted 2026-10-29 · [open posting](https://www.comeet.com/jobs/cyera/17.008/talent-acquisition-global-team/FE.B4B)
+- ★★ **Total Rewards Portal Sr. Analyst** — General Motors · Remote – US  
+  GM Israel tech center (Herzliya) · posted Posted 9 D · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Total-Rewards-Portal-Sr-Analyst_JR-202623483-1)
 - ★★ **Senior Compensation Manager** — monday.com · Remote – US  
   Israeli-founded, Tel Aviv HQ · posted 2026-10-06 · [open posting](https://jobs.ashbyhq.com/monday.com/76c72596-b10c-463b-ae59-b585787b30ae)
 - ★★ **Talent Acquisition Partner** — Noma Security · Remote – US  
