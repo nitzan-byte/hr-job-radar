@@ -1,6 +1,6 @@
 # Open remote-US HR roles at Israeli-linked companies
 
-_12 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
+_10 matching roles open (list changes only when roles open or close; see the Actions tab for the last run time)_
 
 ★★★ core HRBP/People/L&D · ★★ talent/recruiting/rewards · ★ senior stretch
 
@@ -11,11 +11,7 @@ _12 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
   portfolio of Grove Ventures · posted 2026-08-19 · [open posting](https://www.notraffic.com/careers/co/hr/61.F6D/human-resources-manager/all)
 - ★★★ **Onboarding Specialist** — Riverside.fm · Remote – US  
-  Israeli-founded, Tel Aviv · posted 2026-11-22 · [open posting](https://careers.riverside.com/careers/onboarding-specialist?Share&employeeShare)
-- ★★ **Total Rewards Business Partner** — GE HealthCare · Remote (country not stated – check)  
-  Haifa/Tirat Carmel R&D · posted Posted 30+ · [open posting](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Total-Rewards-Business-Partner_R4046904-1)
-- ★★ **Total Rewards Portal Sr. Analyst** — General Motors · Remote – US  
-  GM Israel tech center (Herzliya) · posted Posted 11  · [open posting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Total-Rewards-Portal-Sr-Analyst_JR-202623483-1)
+  Israeli-founded, Tel Aviv · posted 2026-11-22 · [open posting](https://careers.riverside.com/careers/onboarding-specialist)
 - ★★ **Senior Compensation Manager** — monday.com · Remote – US  
   Israeli-founded, Tel Aviv HQ · posted 2026-10-06 · [open posting](https://jobs.ashbyhq.com/monday.com/76c72596-b10c-463b-ae59-b585787b30ae)
 - ★★ **Talent Acquisition Partner** — Noma Security · Remote – US  
