@@ -7,7 +7,7 @@ _10 matching roles open (list changes only when roles open or close; see the Act
 - ★★★ **International People Ops Analyst, Benefits** — CardinalOps Ltd. · Remote – US  
   portfolio of Viola Group · posted 2026-11-18 · [open posting](https://cribl.io/job-detail/?gh_jid=6261584004)
 - ★★★ **GTM Learning Experience Designer** — Claroty · Remote – US  
-  Israeli founders, Tel Aviv R&D · posted 2026-11-25 · [open posting](https://claroty.com/open-positions/8D.47C)
+  Israeli founders, Tel Aviv R&D · posted 2026-11-27 · [open posting](https://claroty.com/open-positions/8D.47C)
 - ★★★ **Staff People Business Partner, GTM** — EvenUp · Remote – US  
   portfolio of NFX Guild · posted 2026-10-20 · [open posting](https://jobs.ashbyhq.com/evenup/486294e0-85e0-42ca-b932-76beb221de7c)
 - ★★★ **Human Resources Manager** — NoTraffic · Remote – US  
